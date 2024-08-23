@@ -2,10 +2,11 @@
 
 ## Overview
 
-This project provides a Python script for extracting QR code data and images from PDF files. This can be particularly useful for processing documents containing charitable donation information with QR codes. It was mainly used to extract this [pdf](https://www.muamalat.com.my/wp-content/uploads/2023/10/LIST-OF-QR-CODE-FOR-E-DERMA.pdf). It only extracts data from the QR Code itself and not from the text inside the PDF.
+This project provides a Python script for extracting QR code data and images from PDF files. This can be particularly useful for processing documents containing charitable donation information with QR codes. It was mainly used to extract this [pdf](https://www.muamalat.com.my/wp-content/uploads/2023/10/LIST-OF-QR-CODE-FOR-E-DERMA.pdf) for [sedekah-je](https://github.com/khrnchn/sedekah-je) repo. It only extracts data from the QR Code itself and not from the text inside the PDF.
 
 Scripts used to process the PDF:
 qr_codes_with_images.py/qr_codes_only.py -> duitnow_qr_parser_state.py -> merge_ts_json_data.py
+
 
 
 ## Features
