@@ -1,0 +1,1 @@
+Extractor for DuitNow QR Code specifically made for sedekah-je
