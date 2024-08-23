@@ -3,7 +3,7 @@ import re
 
 # File paths (you can modify these as needed)
 existing_file_path = 'institutions.ts'
-new_data_file_path = 'Data Processing/Output JSON/refined_qr_data.json'
+new_data_file_path = 'Data Processing/Output JSON/refined_qr_data_processed.json'
 output_file_path = 'Final Output/updated_institutions.ts'
 
 def read_ts_file(file_path):
