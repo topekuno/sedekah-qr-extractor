@@ -79,7 +79,7 @@ def main(pdf_path, output_folder, json_output_path):
     print(f"Results saved to {json_output_path}")
 
 if __name__ == "__main__":
-    pdf_path = "Main_PDF.pdf"
+    pdf_path = "PDF Files/Main_PDF.pdf"
     output_folder = "QR_images"
-    json_output_path = "qr_codes_with_images.json"
+    json_output_path = "Data Extraction/Output JSON/qr_codes_with_images.json"
     main(pdf_path, output_folder, json_output_path)

@@ -62,7 +62,7 @@ def extract_duitnow_data(input_json_path: str, output_json_path: str):
     duitnow_data_list = []
 
     for qr in qr_codes:
-        parsed_data = parse_duitnow_qr(qr['qr_content'])
+        parsed_data = parse_duitnow_qr(qr['qrContent'])
         
         merchant_name = parsed_data.get('merchant_name', '')
         postal_code = parsed_data.get('postal_code', '')
@@ -73,8 +73,8 @@ def extract_duitnow_data(input_json_path: str, output_json_path: str):
             "category": determine_category(merchant_name),
             "state": get_state_from_postal_code(postal_code),
             "city": parsed_data.get('merchant_city', ''),
-            "qrImage": qr['qr_image'],
-            "qrContent": qr['qr_content'],
+            "qrImage": qr['image'],
+            "qrContent": qr['qrContent'],
         }
         
         # Optional fields
@@ -92,6 +92,6 @@ def extract_duitnow_data(input_json_path: str, output_json_path: str):
     print(f"Results saved to {output_json_path}")
 
 if __name__ == "__main__":
-    input_json_path = "parsed_duitnow_qr_data.json"  # Your input file
-    output_json_path = "refined_parsed_duitnow_qr_data.json"
+    input_json_path = "Data Processing/Output JSON/qr_codes_with_images_deduplicated.json"  # Your input file
+    output_json_path = "Data Processing/Output JSON/refined_qr_data.json"
     extract_duitnow_data(input_json_path, output_json_path)

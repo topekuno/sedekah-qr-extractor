@@ -39,6 +39,6 @@ def main(input_json_path, output_json_path):
     remove_duplicates(input_json_path, output_json_path)
 
 if __name__ == "__main__":
-    input_json_path = "Main_PDF_output.json"  # The output from the previous script
-    output_json_path = "Main_PDF_output_deduplicate.json"
+    input_json_path = "Data Extraction/Output JSON/qr_codes_with_images.json"  # The output from the previous script
+    output_json_path = "Data Processing/Output JSON/qr_codes_with_images_deduplicated.json"
     main(input_json_path, output_json_path)
