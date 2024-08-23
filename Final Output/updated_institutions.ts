@@ -3356,7 +3356,6 @@ export const institutions: Institution[] = [
     qrImage: "",
     qrContent: "00020201021126610014A000000615000101065641670215QRMID0000000001031001230919085204866153034585802MY5916SURAU AS SAKINAH6012KUALA LUMPUR6105501006304B99A",
     supportedPayment: ["duitnow", "tng"],
-    coords: [],
   },
   {
     id: 280,
@@ -3367,7 +3366,6 @@ export const institutions: Institution[] = [
     qrImage: "",
     qrContent: "00020201021126610014A000000615000101065641670215QRMID0000005045031001338839665204566153034585802MY5924MASJID DAMANSARA PERDANA6013PETALING JAYA6105478206304EFB2",
     supportedPayment: ["duitnow", "tng"],
-    coords: [],
   },
   {
     id: 281,
@@ -3378,7 +3376,6 @@ export const institutions: Institution[] = [
     qrImage: "",
     qrContent: "00020201021126610014A000000615000101065641670215QRMID0000000297031001221777205204866153034585802MY5923MASJID ANGKATAN TENTERA6011SUNGAI BESI61055700063043EC8",
     supportedPayment: ["duitnow", "tng"],
-    coords: [],
   },
   {
     id: 282,
@@ -3389,7 +3386,6 @@ export const institutions: Institution[] = [
     qrImage: "",
     qrContent: "00020201021126610014A000000615000101065641670215QRMID0000000318031001692066535204866153034585802MY5916SURAU NURUL IMAN6015TAMAN MINANG KL61055600063048622",
     supportedPayment: ["duitnow", "tng"],
-    coords: [],
   },
   {
     id: 283,
@@ -3400,7 +3396,6 @@ export const institutions: Institution[] = [
     qrImage: "",
     qrContent: "00020201021126610014A000000615000101065641670215QRMID0000000391031001622145835204866153034585802MY5919MASJID NURRUSAADAH 6012KUALA LUMPUR6105561006304CE8E",
     supportedPayment: ["duitnow", "tng"],
-    coords: [],
   },
   {
     id: 284,
@@ -3411,7 +3406,6 @@ export const institutions: Institution[] = [
     qrImage: "",
     qrContent: "00020201021126610014A000000615000101065641670215QRMID0000000549031001391372065204866153034585802MY5919MASJID AL MUKHLISIN6006CHERAS6105560006304613C",
     supportedPayment: ["duitnow", "tng"],
-    coords: [],
   },
   {
     id: 285,
@@ -3422,7 +3416,6 @@ export const institutions: Institution[] = [
     qrImage: "",
     qrContent: "00020201021126610014A000000615000101065641670215QRMID0000001196031001238230665204866153034585802MY5918SURAU AL-MUKHLISIN6006CHERAS6105560006304797E",
     supportedPayment: ["duitnow", "tng"],
-    coords: [],
   },
   {
     id: 286,
@@ -3433,7 +3426,6 @@ export const institutions: Institution[] = [
     qrImage: "",
     qrContent: "00020201021126610014A000000615000101065641670215QRMID0000004237031001935142885204866153034585802MY5914SURAU AT-TAQWA6006CHERAS61050600063048B81",
     supportedPayment: ["duitnow", "tng"],
-    coords: [],
   },
   {
     id: 287,
@@ -3444,7 +3436,6 @@ export const institutions: Institution[] = [
     qrImage: "",
     qrContent: "00020201021126610014A000000615000101065641670215QRMID0000000188031001934644905204866153034585802MY5915SURAU AR-RAHMAN6013JINJANG UTARA6105520006304F14F",
     supportedPayment: ["duitnow", "tng"],
-    coords: [],
   },
   {
     id: 288,
@@ -3455,7 +3446,6 @@ export const institutions: Institution[] = [
     qrImage: "",
     qrContent: "00020201021126610014A000000615000101065641670215QRMID0000000194031001226195235204866153034585802MY5919SURAU AL-MUQARRABIN6008SEGAMBUT610551200630473AD",
     supportedPayment: ["duitnow", "tng"],
-    coords: [],
   },
   {
     id: 289,
@@ -3466,7 +3456,6 @@ export const institutions: Institution[] = [
     qrImage: "",
     qrContent: "00020201021126610014A000000615000101065641670215QRMID0000000833031001270273115204533153034585802MY5924PER SERUAN ISLAM SEL W.P6010JALAN IPOH6105503506304482D",
     supportedPayment: ["duitnow", "tng"],
-    coords: [],
   },
   {
     id: 290,
@@ -3477,7 +3466,6 @@ export const institutions: Institution[] = [
     qrImage: "",
     qrContent: "00020201021126610014A000000615000101065641670215QRMID0000000837031001724397055204866153034585802MY5921SURAU AT TAQWA JPWPKL6012KUALA LUMPUR610550604630497F3",
     supportedPayment: ["duitnow", "tng"],
-    coords: [],
   },
   {
     id: 291,
@@ -3488,7 +3476,6 @@ export const institutions: Institution[] = [
     qrImage: "",
     qrContent: "00020201021126610014A000000615000101065641670215QRMID0000001615031001236193675204866153034585802MY5917SURAU BALAI ISLAM6012KUALA LUMPUR61055410063047341",
     supportedPayment: ["duitnow", "tng"],
-    coords: [],
   },
   {
     id: 292,
@@ -3499,7 +3486,6 @@ export const institutions: Institution[] = [
     qrImage: "",
     qrContent: "00020201021126610014A000000615000101065641670215QRMID0000000241031001334410065204866153034585802MY5915SURAU AL HIKMAH6013JINJANG UTARA6105520006304EE45",
     supportedPayment: ["duitnow", "tng"],
-    coords: [],
   },
   {
     id: 293,
@@ -3510,7 +3496,6 @@ export const institutions: Institution[] = [
     qrImage: "",
     qrContent: "00020201021126610014A000000615000101065641670215QRMID0000000103031001925422105204866153034585802MY5923MASJID ZAHID BIN THABIT6012KUALA LUMPUR6105560006304C4A8",
     supportedPayment: ["duitnow", "tng"],
-    coords: [],
   },
   {
     id: 294,
@@ -3521,7 +3506,6 @@ export const institutions: Institution[] = [
     qrImage: "",
     qrContent: "00020201021126610014A000000615000101065641670215QRMID0000000387031001661737565204866153034585802MY5918MASJID IBN KHALDUN6012KUALA LUMPUR6105570006304A373",
     supportedPayment: ["duitnow", "tng"],
-    coords: [],
   },
   {
     id: 295,
@@ -3532,7 +3516,6 @@ export const institutions: Institution[] = [
     qrImage: "",
     qrContent: "00020201021126610014A000000615000101065641670215QRMID0000004416031001220014865204866153034585802MY5918SURAU KHAMISAH ALI6006KAJANG6105430006304C1F0",
     supportedPayment: ["duitnow", "tng"],
-    coords: [],
   },
   {
     id: 296,
@@ -3543,7 +3526,6 @@ export const institutions: Institution[] = [
     qrImage: "",
     qrContent: "00020201021126610014A000000615000101065641670215QRMID0000000037031001746683455204866153034585802MY5922MASJID USAMAH BIN ZAID6012KUALA LUMPUR61055330063046BA5",
     supportedPayment: ["duitnow", "tng"],
-    coords: [],
   },
   {
     id: 297,
@@ -3554,7 +3536,6 @@ export const institutions: Institution[] = [
     qrImage: "",
     qrContent: "00020201021126610014A000000615000101065641670215QRMID0000000038031001931931615204866153034585802MY5922MASJID AL-MARDHIYAH TM6012KUALA LUMPUR61055310063041F2A",
     supportedPayment: ["duitnow", "tng"],
-    coords: [],
   },
   {
     id: 298,
@@ -3565,7 +3546,6 @@ export const institutions: Institution[] = [
     qrImage: "",
     qrContent: "00020201021126610014A000000615000101065641670215QRMID0000000039031001232759695204866153034585802MY5925MASJID BUKIT ANTARABANGSA6006AMPANG6105680006304D383",
     supportedPayment: ["duitnow", "tng"],
-    coords: [],
   },
   {
     id: 299,
@@ -3576,7 +3556,6 @@ export const institutions: Institution[] = [
     qrImage: "",
     qrContent: "00020201021126610014A000000615000101065641670215QRMID0000000224031001938192125204866153034585802MY5919MASJID UKAY PERDANA6011HULU KELANG61056800063045E90",
     supportedPayment: ["duitnow", "tng"],
-    coords: [],
   },
   {
     id: 300,
@@ -3587,7 +3566,6 @@ export const institutions: Institution[] = [
     qrImage: "",
     qrContent: "00020201021126610014A000000615000101065641670215QRMID0000000336031001327609465204866153034585802MY5923MJD A.UBAIDAH AL JARRAH6012KUALA LUMPUR6105533006304622A",
     supportedPayment: ["duitnow", "tng"],
-    coords: [],
   },
   {
     id: 301,
@@ -3598,7 +3576,6 @@ export const institutions: Institution[] = [
     qrImage: "",
     qrContent: "00020201021126610014A000000615000101065641670215QRMID0000000405031001663695545204866153034585802MY5920MJD AL IMAN KEMENSAH6006AMPANG6105680006304AE06",
     supportedPayment: ["duitnow", "tng"],
-    coords: [],
   },
   {
     id: 302,
@@ -3609,7 +3586,6 @@ export const institutions: Institution[] = [
     qrImage: "",
     qrContent: "00020201021126610014A000000615000101065641670215QRMID0000000432031001935632885204866153034585802MY5917MASJID AL RIDHUAN6006AMPANG61056800063042B9F",
     supportedPayment: ["duitnow", "tng"],
-    coords: [],
   },
   {
     id: 303,
@@ -3620,7 +3596,6 @@ export const institutions: Institution[] = [
     qrImage: "",
     qrContent: "00020201021126610014A000000615000101065641670215QRMID0000000620031001339072405204866153034585802MY5922MASJID LAMA AL HIDAYAH6006GOMBAK6105531006304CE99",
     supportedPayment: ["duitnow", "tng"],
-    coords: [],
   },
   {
     id: 304,
@@ -3631,7 +3606,6 @@ export const institutions: Institution[] = [
     qrImage: "",
     qrContent: "00020201021126610014A000000615000101065641670215QRMID0000000902031001931424735204866153034585802MY5913SURAU ATTAQWA6012KUALA LUMPUR61055420063043CC3",
     supportedPayment: ["duitnow", "tng"],
-    coords: [],
   },
   {
     id: 305,
@@ -3642,7 +3616,6 @@ export const institutions: Institution[] = [
     qrImage: "",
     qrContent: "00020201021126610014A000000615000101065641670215QRMID0000000904031001333224145204533153034585802MY5924PER PNDDK TMN DANAU KOTA6007SETAPAK610553300630449F7",
     supportedPayment: ["duitnow", "tng"],
-    coords: [],
   },
   {
     id: 306,
@@ -3653,7 +3626,6 @@ export const institutions: Institution[] = [
     qrImage: "",
     qrContent: "00020201021126610014A000000615000101065641670215QRMID0000000371031001923839445204866153034585802MY5913MASJID AL-UMM6005BANGI61054365063040EF8",
     supportedPayment: ["duitnow", "tng"],
-    coords: [],
   },
   {
     id: 307,
@@ -3664,7 +3636,6 @@ export const institutions: Institution[] = [
     qrImage: "",
     qrContent: "00020201021126620014A000000615000101065641670215QRMID00000009500311011101086835204866153034585802MY5924SURAU KUARTERS SEK 14 BB6005BANGI610543650630485B7",
     supportedPayment: ["duitnow", "tng"],
-    coords: [],
   },
   {
     id: 308,
@@ -3675,7 +3646,6 @@ export const institutions: Institution[] = [
     qrImage: "",
     qrContent: "00020201021126610014A000000615000101065641670215QRMID0000001035031001920750035204866153034585802MY5919MASJID AL ISTIQAMAH6006KAJANG6105430006304BEB2",
     supportedPayment: ["duitnow", "tng"],
-    coords: [],
   },
   {
     id: 309,
@@ -3686,7 +3656,6 @@ export const institutions: Institution[] = [
     qrImage: "",
     qrContent: "00020201021126610014A000000615000101065641670215QRMID0000000250031001939216615204866153034585802MY5918SURAU AL-IKHWAN TS6010BATU CAVES6105681006304EB4C",
     supportedPayment: ["duitnow", "tng"],
-    coords: [],
   },
   {
     id: 310,
@@ -3697,7 +3666,6 @@ export const institutions: Institution[] = [
     qrImage: "",
     qrContent: "00020201021126610014A000000615000101065641670215QRMID0000000332031001934539765204866153034585802MY5925SURAU AL HIDAYAH T.SUNWAY6006GOMBAK61056810063041FD9",
     supportedPayment: ["duitnow", "tng"],
-    coords: [],
   },
   {
     id: 311,
@@ -3708,7 +3676,6 @@ export const institutions: Institution[] = [
     qrImage: "",
     qrContent: "00020201021126610014A000000615000101065641670215QRMID0000000370031001825326075204866153034585802MY5924MASJID JAMIATUS SOLAHIAH6010BATU CAVES6105681006304E993",
     supportedPayment: ["duitnow", "tng"],
-    coords: [],
   },
   {
     id: 312,
@@ -3719,7 +3686,6 @@ export const institutions: Institution[] = [
     qrImage: "",
     qrContent: "00020201021126610014A000000615000101065641670215QRMID0000000745031001935089825204866153034585802MY5921MASJID AL ITTIFAQIYAH6010BATU CAVES6105681006304D1AE",
     supportedPayment: ["duitnow", "tng"],
-    coords: [],
   },
   {
     id: 313,
@@ -3730,7 +3696,6 @@ export const institutions: Institution[] = [
     qrImage: "",
     qrContent: "00020201021126610014A000000615000101065641670215QRMID0000000767031001236457345204866153034585802MY5912MASJID ANNUR6010BATU CAVES6105681006304E4FC",
     supportedPayment: ["duitnow", "tng"],
-    coords: [],
   },
   {
     id: 314,
@@ -3741,7 +3706,6 @@ export const institutions: Institution[] = [
     qrImage: "",
     qrContent: "00020201021126610014A000000615000101065641670215QRMID0000004222031001928655545204866153034585802MY5920SURAU AL KHAIRIAH SP6010BATU CAVES61056810063044A89",
     supportedPayment: ["duitnow", "tng"],
-    coords: [],
   },
   {
     id: 315,
@@ -3752,7 +3716,6 @@ export const institutions: Institution[] = [
     qrImage: "",
     qrContent: "00020201021126610014A000000615000101065641670215QRMID0000004315031001033487435204866153034585802MY5917MASJID AL-SHARIFF6006GOMBAK61055310063041EA1",
     supportedPayment: ["duitnow", "tng"],
-    coords: [],
   },
   {
     id: 316,
@@ -3763,7 +3726,6 @@ export const institutions: Institution[] = [
     qrImage: "",
     qrContent: "00020201021126610014A000000615000101065641670215QRMID0000004387031001768856585204866153034585802MY5922SURAU MIFTAHUL FALIHEN6012KUALA LUMPUR61055310063045ED6",
     supportedPayment: ["duitnow", "tng"],
-    coords: [],
   },
   {
     id: 317,
@@ -3774,7 +3736,6 @@ export const institutions: Institution[] = [
     qrImage: "",
     qrContent: "00020201021126610014A000000615000101065641670215QRMID0000000021031001234259515204300053034585802MY5923MASJID AN-NUR GLENMARIE6009SHAH ALAM610540150630404EC",
     supportedPayment: ["duitnow", "tng"],
-    coords: [],
   },
   {
     id: 318,
@@ -3785,7 +3746,6 @@ export const institutions: Institution[] = [
     qrImage: "",
     qrContent: "00020201021126610014A000000615000101065641670215QRMID0000000088031001922159905204866153034585802MY5925SR AL-HIDAYAH W DRB HICOM6012GLENMARIE SA6105401506304939B",
     supportedPayment: ["duitnow", "tng"],
-    coords: [],
   },
   {
     id: 319,
@@ -3796,7 +3756,6 @@ export const institutions: Institution[] = [
     qrImage: "",
     qrContent: "00020201021126610014A000000615000101065641670215QRMID0000000408031001633559605204839853034585802MY5925PERSATUAN KBJKN AL-FIKRAH6006KAJANG610543000630409BB",
     supportedPayment: ["duitnow", "tng"],
-    coords: [],
   },
   {
     id: 320,
@@ -3807,7 +3766,6 @@ export const institutions: Institution[] = [
     qrImage: "",
     qrContent: "00020201021126610014A000000615000101065641670215QRMID0000000066031001633580445204866153034585802MY5917SURAU SRI SAUJANA6006KAJANG61054300063043524",
     supportedPayment: ["duitnow", "tng"],
-    coords: [],
   },
   {
     id: 321,
@@ -3818,7 +3776,6 @@ export const institutions: Institution[] = [
     qrImage: "",
     qrContent: "00020201021126610014A000000615000101065641670215QRMID0000000265031001927150065204866153034585802MY5918SURAU TAMAN JASMIN6006KAJANG61054300063048D70",
     supportedPayment: ["duitnow", "tng"],
-    coords: [],
   },
   {
     id: 322,
@@ -3829,7 +3786,6 @@ export const institutions: Institution[] = [
     qrImage: "",
     qrContent: "00020201021126610014A000000615000101065641670215QRMID0000000462031001320828875204533153034585802MY5916AL HIDAYAH B.T.K6008SEMENYIH6105435006304E4AE",
     supportedPayment: ["duitnow", "tng"],
-    coords: [],
   },
   {
     id: 323,
@@ -3840,7 +3796,6 @@ export const institutions: Institution[] = [
     qrImage: "",
     qrContent: "00020201021126610014A000000615000101065641670215QRMID0000000463031001668520745204866153034585802MY5921SURAU IMPIAN GEMILANG6006KAJANG61054300063042D41",
     supportedPayment: ["duitnow", "tng"],
-    coords: [],
   },
   {
     id: 324,
@@ -3851,7 +3806,6 @@ export const institutions: Institution[] = [
     qrImage: "",
     qrContent: "00020201021126610014A000000615000101065641670215QRMID0000000576031001361420295204866153034585802MY5916SURAU AN NUR TKP6006KAJANG61054300063045890",
     supportedPayment: ["duitnow", "tng"],
-    coords: [],
   },
   {
     id: 325,
@@ -3862,7 +3816,6 @@ export const institutions: Institution[] = [
     qrImage: "",
     qrContent: "00020201021126610014A000000615000101065641670215QRMID0000000768031001269263675204866153034585802MY5924PMBNAAN SURAU NURUL HUDA6006KAJANG61054300063045B08",
     supportedPayment: ["duitnow", "tng"],
-    coords: [],
   },
   {
     id: 326,
@@ -3873,7 +3826,6 @@ export const institutions: Institution[] = [
     qrImage: "",
     qrContent: "00020201021126610014A000000615000101065641670215QRMID0000001144031001923352305204866153034585802MY5924MJD PRIMA SAUJANA KAJANG6006KAJANG6105430006304C1F9",
     supportedPayment: ["duitnow", "tng"],
-    coords: [],
   },
   {
     id: 327,
@@ -3884,7 +3836,6 @@ export const institutions: Institution[] = [
     qrImage: "",
     qrContent: "00020201021126610014A000000615000101065641670215QRMID0000003381031001237229905204866153034585802MY5923SURAU SK SAUJANA IMPIAN6006KAJANG6105430006304B41F",
     supportedPayment: ["duitnow", "tng"],
-    coords: [],
   },
   {
     id: 328,
@@ -3895,7 +3846,6 @@ export const institutions: Institution[] = [
     qrImage: "",
     qrContent: "00020201021126610014A000000615000101065641670215QRMID0000004260031001969664445204866153034585802MY5914SURAU AL ASMAH6006KAJANG6105430006304E1DB",
     supportedPayment: ["duitnow", "tng"],
-    coords: [],
   },
   {
     id: 329,
@@ -3906,7 +3856,6 @@ export const institutions: Institution[] = [
     qrImage: "",
     qrContent: "00020201021126610014A000000615000101065641670215QRMID0000000071031001626159015204829953034585802MY5923TABUNG PENDIDIKAN HAFIZ6005KLANG6105413006304B29C",
     supportedPayment: ["duitnow", "tng"],
-    coords: [],
   },
   {
     id: 330,
@@ -3917,7 +3866,6 @@ export const institutions: Institution[] = [
     qrImage: "",
     qrContent: "00020201021126610014A000000615000101065641670215QRMID0000000072031001626159035204533153034585802MY5905PITAS6010BATU CAVES6105681006304FE00",
     supportedPayment: ["duitnow", "tng"],
-    coords: [],
   },
   {
     id: 331,
@@ -3928,7 +3876,6 @@ export const institutions: Institution[] = [
     qrImage: "",
     qrContent: "00020201021126610014A000000615000101065641670215QRMID0000000908031001321709305204866153034585802MY5915SURAU AR RAHMAH6009SHAH ALAM610540000630434B0",
     supportedPayment: ["duitnow", "tng"],
-    coords: [],
   },
   {
     id: 332,
@@ -3939,7 +3886,6 @@ export const institutions: Institution[] = [
     qrImage: "",
     qrContent: "00020201021126610014A000000615000101065641670215QRMID0000000042031001672535525204866153034585802MY5925SURAU AL MUNAWWARAH SEK136009SHAH ALAM6105401006304EEE0",
     supportedPayment: ["duitnow", "tng"],
-    coords: [],
   },
   {
     id: 333,
@@ -3950,7 +3896,6 @@ export const institutions: Institution[] = [
     qrImage: "",
     qrContent: "00020201021126610014A000000615000101065641670215QRMID0000000715031001697957135204866153034585802MY5915SURAU AS SALAAM6009SHAH ALAM6105401006304F6BA",
     supportedPayment: ["duitnow", "tng"],
-    coords: [],
   },
   {
     id: 334,
@@ -3961,7 +3906,6 @@ export const institutions: Institution[] = [
     qrImage: "",
     qrContent: "00020201021126610014A000000615000101065641670215QRMID0000001147031001922100645204866153034585802MY5915SURAU AL-IKHLAS6009SHAH ALAM61054015063044CEE",
     supportedPayment: ["duitnow", "tng"],
-    coords: [],
   },
   {
     id: 335,
@@ -3972,7 +3916,6 @@ export const institutions: Institution[] = [
     qrImage: "",
     qrContent: "00020201021126610014A000000615000101065641670215QRMID0000003557031001723916355204866153034585802MY5918MADRASAH NAHDHATUL6010SHAH ALAM 61054000063048A6E",
     supportedPayment: ["duitnow", "tng"],
-    coords: [],
   },
   {
     id: 336,
@@ -3983,7 +3926,6 @@ export const institutions: Institution[] = [
     qrImage: "",
     qrContent: "00020201021126610014A000000615000101065641670215QRMID0000003591031001230314395204866153034585802MY5920AL UBUDIAH SHAH ALAM6009SHAH ALAM610540300630488E9",
     supportedPayment: ["duitnow", "tng"],
-    coords: [],
   },
   {
     id: 337,
@@ -3994,7 +3936,6 @@ export const institutions: Institution[] = [
     qrImage: "",
     qrContent: "00020201021126610014A000000615000101065641670215QRMID0000004297031001938539655204866153034585802MY5917SURAU NURUL IHSAN6009SHAH ALAM6105400006304CCD1",
     supportedPayment: ["duitnow", "tng"],
-    coords: [],
   },
   {
     id: 338,
@@ -4005,7 +3946,6 @@ export const institutions: Institution[] = [
     qrImage: "",
     qrContent: "00020201021126610014A000000615000101065641670215QRMID0000000222031001750507455204866153034585802MY5918MASJID NURUL EHSAN6013PETALING JAYA6105460006304731A",
     supportedPayment: ["duitnow", "tng"],
-    coords: [],
   },
   {
     id: 339,
@@ -4016,7 +3956,6 @@ export const institutions: Institution[] = [
     qrImage: "",
     qrContent: "00020201021126620014A000000615000101065641670215QRMID00000002490311011312468695204866153034585802MY5913SURAU AN-NUUR6013PETALING JAYA6105478006304D462",
     supportedPayment: ["duitnow", "tng"],
-    coords: [],
   },
   {
     id: 340,
@@ -4027,7 +3966,6 @@ export const institutions: Institution[] = [
     qrImage: "",
     qrContent: "00020201021126610014A000000615000101065641670215QRMID0000000316031001966865655204866153034585802MY5920SURAU ANNUR DWIPUTRA6009PUTRAJAYA61056205063048E90",
     supportedPayment: ["duitnow", "tng"],
-    coords: [],
   },
   {
     id: 341,
@@ -4038,7 +3976,6 @@ export const institutions: Institution[] = [
     qrImage: "",
     qrContent: "00020201021126610014A000000615000101065641670215QRMID0000000354031001333024695204866153034585802MY5918SURAU AL-MUKHLISIN6006KAJANG61054300063042278",
     supportedPayment: ["duitnow", "tng"],
-    coords: [],
   },
   {
     id: 342,
@@ -4049,7 +3986,6 @@ export const institutions: Institution[] = [
     qrImage: "",
     qrContent: "00020201021126610014A000000615000101065641670215QRMID0000000384031001022096315204866153034585802MY5913MASJID UNITEN6006KAJANG6105430006304A2C9",
     supportedPayment: ["duitnow", "tng"],
-    coords: [],
   },
   {
     id: 343,
@@ -4060,7 +3996,6 @@ export const institutions: Institution[] = [
     qrImage: "",
     qrContent: "00020201021126610014A000000615000101065641670215QRMID0000000285031001927797185204866153034585802MY5917MASJID NURUL IMAN6006RAWANG610548000630420AE",
     supportedPayment: ["duitnow", "tng"],
-    coords: [],
   },
   {
     id: 344,
@@ -4071,7 +4006,6 @@ export const institutions: Institution[] = [
     qrImage: "",
     qrContent: "00020201021126610014A000000615000101065641670215QRMID0000000304031001229036425204866153034585802MY5922MJD N.ISLAMIAH SG CHOH6006RAWANG61054800063046FC1",
     supportedPayment: ["duitnow", "tng"],
-    coords: [],
   },
   {
     id: 345,
@@ -4082,7 +4016,6 @@ export const institutions: Institution[] = [
     qrImage: "",
     qrContent: "00020201021126610014A000000615000101065641670215QRMID0000000308031001645474845204866153034585802MY5922SURAU AT-TAQWA D.MELOR6008SERENDAH61054820063046CAF",
     supportedPayment: ["duitnow", "tng"],
-    coords: [],
   },
   {
     id: 346,
@@ -4093,7 +4026,6 @@ export const institutions: Institution[] = [
     qrImage: "",
     qrContent: "00020201021126610014A000000615000101065641670215QRMID0000000457031001328850095204866153034585802MY5925MSJID NURUL IMAN SERENDAH6006RAWANG61054820063049F80",
     supportedPayment: ["duitnow", "tng"],
-    coords: [],
   },
   {
     id: 347,
@@ -4104,7 +4036,6 @@ export const institutions: Institution[] = [
     qrImage: "",
     qrContent: "00020201021126610014A000000615000101065641670215QRMID0000000851031001926939975204866153034585802MY5917SURAU AL MUSTAQIM6008SERENDAH61053204063045599",
     supportedPayment: ["duitnow", "tng"],
-    coords: [],
   },
   {
     id: 348,
@@ -4115,7 +4046,6 @@ export const institutions: Institution[] = [
     qrImage: "",
     qrContent: "00020201021126610014A000000615000101065641670215QRMID0000000084031001992303515204866153034585802MY5917MASJID LEPAN JAYA6014GUA MUSANG KEL6105183006304007D",
     supportedPayment: ["duitnow", "tng"],
-    coords: [],
   },
   {
     id: 349,
@@ -4126,7 +4056,6 @@ export const institutions: Institution[] = [
     qrImage: "",
     qrContent: "00020201021126620014A000000615000101065641670215QRMID00000000850311011199800735204866153034585802MY5916MASJID AR RAHMAN6014GUA MUSANG KEL6105183006304AC36",
     supportedPayment: ["duitnow", "tng"],
-    coords: [],
   },
   {
     id: 350,
@@ -4137,7 +4066,6 @@ export const institutions: Institution[] = [
     qrImage: "",
     qrContent: "00020201021126610014A000000615000101065641670215QRMID0000000096031001790609885204866153034585802MY5921MASJID FELDA ARING 016010GUA MUSANG6105183006304408E",
     supportedPayment: ["duitnow", "tng"],
-    coords: [],
   },
   {
     id: 351,
@@ -4148,7 +4076,6 @@ export const institutions: Institution[] = [
     qrImage: "",
     qrContent: "00020201021126610014A000000615000101065641670215QRMID0000000097031001397792625204866153034585802MY5922MASJID MUKIM SG ASAP B6010GUA MUSANG6105183006304A22E",
     supportedPayment: ["duitnow", "tng"],
-    coords: [],
   },
   {
     id: 352,
@@ -4159,7 +4086,6 @@ export const institutions: Institution[] = [
     qrImage: "",
     qrContent: "00020201021126610014A000000615000101065641670215QRMID0000000099031001450870415204866153034585802MY5925MJ TG MUHAMMAD FA-IZPETRA6010GUA MUSANG61051830063042F6A",
     supportedPayment: ["duitnow", "tng"],
-    coords: [],
   },
   {
     id: 353,
@@ -4170,7 +4096,6 @@ export const institutions: Institution[] = [
     qrImage: "",
     qrContent: "00020201021126610014A000000615000101065641670215QRMID0000000100031001392634305204866153034585802MY5924MASJID MUKIM JERAM TEKOH6010GUA MUSANG6105183006304FE83",
     supportedPayment: ["duitnow", "tng"],
-    coords: [],
   },
   {
     id: 354,
@@ -4181,7 +4106,6 @@ export const institutions: Institution[] = [
     qrImage: "",
     qrContent: "00020201021126610014A000000615000101065641670215QRMID0000000102031001098884325204866153034585802MY5918MASJID TAMAN WANGI6010GUA MUSANG6105183006304723D",
     supportedPayment: ["duitnow", "tng"],
-    coords: [],
   },
   {
     id: 355,
@@ -4192,7 +4116,6 @@ export const institutions: Institution[] = [
     qrImage: "",
     qrContent: "00020201021126610014A000000615000101065641670215QRMID0000000057031001991510845204866153034585802MY5918MASJID BANDAR JELI6004JELI610517600630463ED",
     supportedPayment: ["duitnow", "tng"],
-    coords: [],
   },
   {
     id: 356,
@@ -4203,7 +4126,6 @@ export const institutions: Institution[] = [
     qrImage: "",
     qrContent: "00020201021126610014A000000615000101065641670215QRMID0000000281031001064051105204866153034585802MY5923JK MASJID MUKIM SG LONG6004JELI6105176006304FC8A",
     supportedPayment: ["duitnow", "tng"],
-    coords: [],
   },
   {
     id: 357,
@@ -4214,7 +4136,6 @@ export const institutions: Institution[] = [
     qrImage: "",
     qrContent: "00020201021126610014A000000615000101065641670215QRMID0000000282031001450938915204866153034585802MY5920MASJID MUKIM BERDANG6004JELI6105176006304C6FC",
     supportedPayment: ["duitnow", "tng"],
-    coords: [],
   },
   {
     id: 358,
@@ -4225,7 +4146,6 @@ export const institutions: Institution[] = [
     qrImage: "",
     qrContent: "00020201021126610014A000000615000101065641670215QRMID0000000356031001394471485204866153034585802MY5924MASJID MUKIM KUALA BALAH6004JELI6105176106304B38B",
     supportedPayment: ["duitnow", "tng"],
-    coords: [],
   },
   {
     id: 359,
@@ -4236,7 +4156,6 @@ export const institutions: Institution[] = [
     qrImage: "",
     qrContent: "00020201021126620014A000000615000101065641670215QRMID00000003570311011102065475204866153034585802MY5917 MASJID UMK JELI 6004JELI6105176006304D4DA",
     supportedPayment: ["duitnow", "tng"],
-    coords: [],
   },
   {
     id: 360,
@@ -4247,7 +4166,6 @@ export const institutions: Institution[] = [
     qrImage: "",
     qrContent: "00020201021126610014A000000615000101065641670215QRMID0000000558031001397111975204866153034585802MY5918MASJID AL MUTTAQIN6009PASIR MAS6105170006304D9D1",
     supportedPayment: ["duitnow", "tng"],
-    coords: [],
   },
   {
     id: 361,
@@ -4258,7 +4176,6 @@ export const institutions: Institution[] = [
     qrImage: "",
     qrContent: "00020201021126610014A000000615000101065641670215QRMID0000000560031001394662885204866153034585802MY5918MASJID MUKIM KALAI6004JELI61051760063041D5D",
     supportedPayment: ["duitnow", "tng"],
-    coords: [],
   },
   {
     id: 362,
@@ -4269,7 +4186,6 @@ export const institutions: Institution[] = [
     qrImage: "",
     qrContent: "00020201021126610014A000000615000101065641670215QRMID0000000083031001991389065204866153034585802MY5922MASJID HIJAU AS SAADAH6010KOTA BHARU6105152006304A110",
     supportedPayment: ["duitnow", "tng"],
-    coords: [],
   },
   {
     id: 363,
@@ -4280,7 +4196,6 @@ export const institutions: Institution[] = [
     qrImage: "",
     qrContent: "00020201021126610014A000000615000101065641670215QRMID0000000081031001393766775204866153034585802MY5914MASJID AN-NAIM6010KOTA BHARU6105153006304B516",
     supportedPayment: ["duitnow", "tng"],
-    coords: [],
   },
   {
     id: 364,
@@ -4291,7 +4206,6 @@ export const institutions: Institution[] = [
     qrImage: "",
     qrContent: "00020201021126610014A000000615000101065641670215QRMID0000000139031001998767775204866153034585802MY5918MASJID WAKAF BHARU6011WAKAF BHARU61051625063047835",
     supportedPayment: ["duitnow", "tng"],
-    coords: [],
   },
   {
     id: 365,
@@ -4302,7 +4216,6 @@ export const institutions: Institution[] = [
     qrImage: "",
     qrContent: "00020201021126610014A000000615000101065641670215QRMID0000000155031001995896195204866153034585802MY5923TBG KBJ MJD MUKIM TIONG6010KOTA BHARU6105151006304A9E0",
     supportedPayment: ["duitnow", "tng"],
-    coords: [],
   },
   {
     id: 366,
@@ -4313,7 +4226,6 @@ export const institutions: Institution[] = [
     qrImage: "",
     qrContent: "00020201021126610014A000000615000101065641670215QRMID0000000677031001292100725204866153034585802MY5918MASJID AT TOYYIBAH6010KOTA BHARU61051640063048470",
     supportedPayment: ["duitnow", "tng"],
-    coords: [],
   },
   {
     id: 367,
@@ -4324,7 +4236,6 @@ export const institutions: Institution[] = [
     qrImage: "",
     qrContent: "00020201021126610014A000000615000101065641670215QRMID0000000719031001481797975204866153034585802MY5919SURAU AL MUNAWWARAH6010KOTA BHARU61051610063046A3F",
     supportedPayment: ["duitnow", "tng"],
-    coords: [],
   },
   {
     id: 368,
@@ -4335,7 +4246,6 @@ export const institutions: Institution[] = [
     qrImage: "",
     qrContent: "00020201021126610014A000000615000101065641670215QRMID0000000798031001994621295204866153034585802MY5918MADRASAH ZIKRULLAH6010KOTA BHARU61051615063047241",
     supportedPayment: ["duitnow", "tng"],
-    coords: [],
   },
   {
     id: 369,
@@ -4346,7 +4256,6 @@ export const institutions: Institution[] = [
     qrImage: "",
     qrContent: "00020201021126600014A000000615000101065641670215QRMID000000201403090179157955204866153034585802MY5921AJK TNH KBUR PERADONG6010KOTA BHARU6105151506304E399",
     supportedPayment: ["duitnow", "tng"],
-    coords: [],
   },
   {
     id: 370,
@@ -4357,7 +4266,6 @@ export const institutions: Institution[] = [
     qrImage: "",
     qrContent: "00020201021126610014A000000615000101065641670215QRMID0000003068031001998253555204866153034585802MY5921MASJID MUHAMMADIAH BP6006BACHOK61051602063044021",
     supportedPayment: ["duitnow", "tng"],
-    coords: [],
   },
   {
     id: 371,
@@ -4368,7 +4276,6 @@ export const institutions: Institution[] = [
     qrImage: "",
     qrContent: "00020201021126610014A000000615000101065641670215QRMID0000003300031001086094925204866153034585802MY5924M.TAHFIZ ARABIAH KEBAKAT6011WAKAF BHARU6105162506304D950",
     supportedPayment: ["duitnow", "tng"],
-    coords: [],
   },
   {
     id: 372,
@@ -4379,7 +4286,6 @@ export const institutions: Institution[] = [
     qrImage: "",
     qrContent: "00020201021126610014A000000615000101065641670215QRMID0000004218031001992460475204866153034585802MY5918MASJID NUR SYAFAAT6006BACHOK6105163006304BC27",
     supportedPayment: ["duitnow", "tng"],
-    coords: [],
   },
   {
     id: 373,
@@ -4390,7 +4296,6 @@ export const institutions: Institution[] = [
     qrImage: "",
     qrContent: "00020201021126610014A000000615000101065641670215QRMID0000000019031001998878525204866153034585802MY5923MASJID AYESHA KOK LANAS6010KOTA BHARU61051645063041D16",
     supportedPayment: ["duitnow", "tng"],
-    coords: [],
   },
   {
     id: 374,
@@ -4401,7 +4306,6 @@ export const institutions: Institution[] = [
     qrImage: "",
     qrContent: "00020201021126610014A000000615000101065641670215QRMID0000000020031001993899025204866153034585802MY5924MASJID MUHAIMIN M KLANAS6010KOTA BHARU61051645063040C46",
     supportedPayment: ["duitnow", "tng"],
-    coords: [],
   },
   {
     id: 375,
@@ -4412,7 +4316,6 @@ export const institutions: Institution[] = [
     qrImage: "",
     qrContent: "00020201021126610014A000000615000101065641670215QRMID0000000029031001295423545204866153034585802MY5915MASJID AL-FALAH6010KOTA BHARU610516450630414EB",
     supportedPayment: ["duitnow", "tng"],
-    coords: [],
   },
   {
     id: 376,
@@ -4423,7 +4326,6 @@ export const institutions: Institution[] = [
     qrImage: "",
     qrContent: "00020201021126610014A000000615000101065641670215QRMID0000000075031001992344045204866153034585802MY5918MASJID MUKIM KADOK6010KOTA BHARU61051645063048D5B",
     supportedPayment: ["duitnow", "tng"],
-    coords: [],
   },
   {
     id: 377,
@@ -4434,7 +4336,6 @@ export const institutions: Institution[] = [
     qrImage: "",
     qrContent: "00020201021126610014A000000615000101065641670215QRMID0000000177031001391766065204866153034585802MY5923MASJID AR RAHMAN KLANAS6009KOK LANAS61051645063044D9F",
     supportedPayment: ["duitnow", "tng"],
-    coords: [],
   },
   {
     id: 378,
@@ -4445,7 +4346,6 @@ export const institutions: Institution[] = [
     qrImage: "",
     qrContent: "00020201021126610014A000000615000101065641670215QRMID0000000262031001998361105204866153034585802MY5920MASJID MUKIM DENDANG6007KETEREH61051645063046193",
     supportedPayment: ["duitnow", "tng"],
-    coords: [],
   },
   {
     id: 379,
@@ -4456,7 +4356,6 @@ export const institutions: Institution[] = [
     qrImage: "",
     qrContent: "00020201021126610014A000000615000101065641670215QRMID0000000290031001997725535204866153034585802MY5923MJD KEPUTERAAN M TAHFIZ6007MACHANG6105166006304C232",
     supportedPayment: ["duitnow", "tng"],
-    coords: [],
   },
   {
     id: 380,
@@ -4467,7 +4366,6 @@ export const institutions: Institution[] = [
     qrImage: "",
     qrContent: "00020201021126610014A000000615000101065641670215QRMID0000000291031001393911715204866153034585802MY5916MASJID ABU BAKAR6007KETEREH61051645063043499",
     supportedPayment: ["duitnow", "tng"],
-    coords: [],
   },
   {
     id: 381,
@@ -4478,7 +4376,6 @@ export const institutions: Institution[] = [
     qrImage: "",
     qrContent: "00020201021126610014A000000615000101065641670215QRMID0000000347031001922076215204866153034585802MY5922JK PBN MDRSH KG HAMZAH6010KUALA KRAI61051800063049DC3",
     supportedPayment: ["duitnow", "tng"],
-    coords: [],
   },
   {
     id: 382,
@@ -4489,7 +4386,6 @@ export const institutions: Institution[] = [
     qrImage: "",
     qrContent: "00020201021126610014A000000615000101065641670215QRMID0000003188031001393451925204866153034585802MY5920JK PMBGNN MASJID PKB6007KETEREH61051645063045DC8",
     supportedPayment: ["duitnow", "tng"],
-    coords: [],
   },
   {
     id: 383,
@@ -4500,7 +4396,6 @@ export const institutions: Institution[] = [
     qrImage: "",
     qrContent: "00020201021126610014A000000615000101065641670215QRMID0000000150031001398317865204866153034585802MY5922JK MASJID MUHAMMADI KB6010KOTA BHARU61051510063049555",
     supportedPayment: ["duitnow", "tng"],
-    coords: [],
   },
   {
     id: 384,
@@ -4511,7 +4406,6 @@ export const institutions: Institution[] = [
     qrImage: "",
     qrContent: "00020201021126610014A000000615000101065641670215QRMID0000000196031001996283585204866153034585802MY5917MASJID AS-SOLEHIN6010KOTA BHARU61051520063044429",
     supportedPayment: ["duitnow", "tng"],
-    coords: [],
   },
   {
     id: 385,
@@ -4522,7 +4416,6 @@ export const institutions: Institution[] = [
     qrImage: "",
     qrContent: "00020201021126620014A000000615000101065641670215QRMID00000002060311011550508405204866153034585802MY5918MASJID MUKIM SALOR6010KOTA BHARU6105151006304885B",
     supportedPayment: ["duitnow", "tng"],
-    coords: [],
   },
   {
     id: 386,
@@ -4533,7 +4426,6 @@ export const institutions: Institution[] = [
     qrImage: "",
     qrContent: "00020201021126610014A000000615000101065641670215QRMID0000000231031001290010095204866153034585802MY5919MASJID MUKIM PENDEK6010KOTA BHARU610515100630456AA",
     supportedPayment: ["duitnow", "tng"],
-    coords: [],
   },
   {
     id: 387,
@@ -4544,7 +4436,6 @@ export const institutions: Institution[] = [
     qrImage: "",
     qrContent: "00020201021126610014A000000615000101065641670215QRMID0000000232031001393723365204866153034585802MY5914MASJID TELIPOT6010KOTA BHARU61051515063048087",
     supportedPayment: ["duitnow", "tng"],
-    coords: [],
   },
   {
     id: 388,
@@ -4555,7 +4446,6 @@ export const institutions: Institution[] = [
     qrImage: "",
     qrContent: "00020201021126610014A000000615000101065641670215QRMID0000000260031001392559695204866153034585802MY5924MASJID MUKIM KAMIL HASAN6010KOTA BHARU610515100630480DC",
     supportedPayment: ["duitnow", "tng"],
-    coords: [],
   },
   {
     id: 389,
@@ -4566,7 +4456,6 @@ export const institutions: Institution[] = [
     qrImage: "",
     qrContent: "00020201021126610014A000000615000101065641670215QRMID0000000305031001398611925204866153034585802MY5919MASJID TAMAN MESIRA6010KOTA BHARU6105161506304CF4A",
     supportedPayment: ["duitnow", "tng"],
-    coords: [],
   },
   {
     id: 390,
@@ -4577,7 +4466,6 @@ export const institutions: Institution[] = [
     qrImage: "",
     qrContent: "00020201021126610014A000000615000101065641670215QRMID0000000325031001393981815204866153034585802MY5920MASJID DARUL ULUM KB6010KOTA BHARU61051510063048F0B",
     supportedPayment: ["duitnow", "tng"],
-    coords: [],
   },
   {
     id: 391,
@@ -4588,7 +4476,6 @@ export const institutions: Institution[] = [
     qrImage: "",
     qrContent: "00020201021126610014A000000615000101065641670215QRMID0000000346031001995313255204866153034585802MY5924M.AL-BADRIAH P.JAL BESAR6006TUMPAT61051621063049687",
     supportedPayment: ["duitnow", "tng"],
-    coords: [],
   },
   {
     id: 392,
@@ -4599,7 +4486,6 @@ export const institutions: Institution[] = [
     qrImage: "",
     qrContent: "00020201021126610014A000000615000101065641670215QRMID0000000351031001391190795204866153034585802MY5921JK MASJID AL MUTTAQIN6010KOTA BHARU61051520063044E2C",
     supportedPayment: ["duitnow", "tng"],
-    coords: [],
   },
   {
     id: 393,
@@ -4610,7 +4496,6 @@ export const institutions: Institution[] = [
     qrImage: "",
     qrContent: "00020201021126610014A000000615000101065641670215QRMID0000000395031001340589645204866153034585802MY5918YAYASAN AL KHATIRI6010KOTA BHARU6105152006304D5C8",
     supportedPayment: ["duitnow", "tng"],
-    coords: [],
   },
   {
     id: 394,
@@ -4621,7 +4506,6 @@ export const institutions: Institution[] = [
     qrImage: "",
     qrContent: "00020201021126610014A000000615000101065641670215QRMID0000000436031001998178315204866153034585802MY5918JK MASJID AL MAJID6010KOTA BHARU610515200630471F7",
     supportedPayment: ["duitnow", "tng"],
-    coords: [],
   },
   {
     id: 395,
@@ -4632,7 +4516,6 @@ export const institutions: Institution[] = [
     qrImage: "",
     qrContent: "00020201021126610014A000000615000101065641670215QRMID0000000443031001295202005204866153034585802MY5923TBG KBJKN MJD AL FATTAH6010KOTA BHARU61051510063043822",
     supportedPayment: ["duitnow", "tng"],
-    coords: [],
   },
   {
     id: 396,
@@ -4643,7 +4526,6 @@ export const institutions: Institution[] = [
     qrImage: "",
     qrContent: "00020201021126610014A000000615000101065641670215QRMID0000000445031001622016695204533153034585802MY5924TABUNG PASTI WAKAF BHARU6011WAKAF BHARU610516250630415BF",
     supportedPayment: ["duitnow", "tng"],
-    coords: [],
   },
   {
     id: 397,
@@ -4654,7 +4536,6 @@ export const institutions: Institution[] = [
     qrImage: "",
     qrContent: "00020201021126610014A000000615000101065641670215QRMID0000000580031001393584105204866153034585802MY5914MASJID AL AMIN6006BACHOK6105160206304707E",
     supportedPayment: ["duitnow", "tng"],
-    coords: [],
   },
   {
     id: 398,
@@ -4665,7 +4546,6 @@ export const institutions: Institution[] = [
     qrImage: "",
     qrContent: "00020201021126610014A000000615000101065641670215QRMID0000000847031001959904835204533153034585802MY5912 KELAS KAFII6007MACHANG61051850063047F02",
     supportedPayment: ["duitnow", "tng"],
-    coords: [],
   },
   {
     id: 399,
@@ -4676,7 +4556,6 @@ export const institutions: Institution[] = [
     qrImage: "",
     qrContent: "00020201021126610014A000000615000101065641670215QRMID0000001165031001992789925204866153034585802MY5918MADRASAH MAHMUDIAH6006TUMPAT6105162006304F3F6",
     supportedPayment: ["duitnow", "tng"],
-    coords: [],
   },
   {
     id: 400,
@@ -4687,7 +4566,6 @@ export const institutions: Institution[] = [
     qrImage: "",
     qrContent: "00020201021126610014A000000615000101065641670215QRMID0000003316031001995134425204866153034585802MY5916MASJID MAHMUDIAH6010KOTA BHARU610515100630408D3",
     supportedPayment: ["duitnow", "tng"],
-    coords: [],
   },
   {
     id: 401,
@@ -4698,7 +4576,6 @@ export const institutions: Institution[] = [
     qrImage: "",
     qrContent: "00020201021126610014A000000615000101065641670215QRMID0000000041031001391834155204866153034585802MY5923MASJID MUKIM ALOR PASIR6011TANAH MERAH6105175006304349A",
     supportedPayment: ["duitnow", "tng"],
-    coords: [],
   },
   {
     id: 402,
@@ -4709,7 +4586,6 @@ export const institutions: Institution[] = [
     qrImage: "",
     qrContent: "00020201021126610014A000000615000101065641670215QRMID0000000068031001997737465204866153034585802MY5920MASJID MUKIM BATU 116011TANAH MERAH61051750063041E74",
     supportedPayment: ["duitnow", "tng"],
-    coords: [],
   },
   {
     id: 403,
@@ -4720,7 +4596,6 @@ export const institutions: Institution[] = [
     qrImage: "",
     qrContent: "00020201021126610014A000000615000101065641670215QRMID0000000125031001233792635204866153034585802MY5925SURAU HOSPITAL TANAHMERAH6011TANAH MERAH61051750063043094",
     supportedPayment: ["duitnow", "tng"],
-    coords: [],
   },
   {
     id: 404,
@@ -4731,7 +4606,6 @@ export const institutions: Institution[] = [
     qrImage: "",
     qrContent: "00020201021126610014A000000615000101065641670215QRMID0000000174031001991984795204866153034585802MY5924MJD AL-MUTTAQIN PDG SIAM6011TANAH MERAH61051750063045CBE",
     supportedPayment: ["duitnow", "tng"],
-    coords: [],
   },
   {
     id: 405,
@@ -4742,7 +4616,6 @@ export const institutions: Institution[] = [
     qrImage: "",
     qrContent: "00020201021126610014A000000615000101065641670215QRMID0000000227031001398601345204866153034585802MY5922MASJID ISMAIL PETRA TM6011TANAH MERAH610517500630468B2",
     supportedPayment: ["duitnow", "tng"],
-    coords: [],
   },
   {
     id: 406,
@@ -4753,7 +4626,6 @@ export const institutions: Institution[] = [
     qrImage: "",
     qrContent: "00020201021126610014A000000615000101065641670215QRMID0000000333031001296229895204866153034585802MY5925MASJID AL HIDAYAH T.MERAH6011TANAH MERAH6105175006304FCDE",
     supportedPayment: ["duitnow", "tng"],
-    coords: [],
   },
   {
     id: 407,
@@ -4764,7 +4636,6 @@ export const institutions: Institution[] = [
     qrImage: "",
     qrContent: "00020201021126610014A000000615000101065641670215QRMID0000000709031001939737705204533153034585802MY5906IKATAN6011TANAH MERAH61051750063045452",
     supportedPayment: ["duitnow", "tng"],
-    coords: [],
   },
   {
     id: 408,
@@ -4775,7 +4646,6 @@ export const institutions: Institution[] = [
     qrImage: "",
     qrContent: "00020201021126610014A000000615000101065641670215QRMID0000000741031001991915965204866153034585802MY5922MASJID MUKIM BELIMBING6011TANAH MERAH6105175006304271A",
     supportedPayment: ["duitnow", "tng"],
-    coords: [],
   },
   {
     id: 409,
@@ -4786,7 +4656,6 @@ export const institutions: Institution[] = [
     qrImage: "",
     qrContent: "00020201021126620014A000000615000101065641670215QRMID00000007970311011109069755204866153034585802MY5921MAD PDK HJ ABD SYUKOR6009PASIR MAS61051706063047F7D",
     supportedPayment: ["duitnow", "tng"],
-    coords: [],
   },
   {
     id: 410,
@@ -4797,7 +4666,6 @@ export const institutions: Institution[] = [
     qrImage: "",
     qrContent: "00020201021126610014A000000615000101065641670215QRMID0000000868031001992000465204866153034585802MY5923MASJID TOK GURU MANAL 36011TANAH MERAH6105175006304AAC3",
     supportedPayment: ["duitnow", "tng"],
-    coords: [],
   },
   {
     id: 411,
@@ -4808,7 +4676,6 @@ export const institutions: Institution[] = [
     qrImage: "",
     qrContent: "00020201021126620014A000000615000101065641670215QRMID00000009970311011293373575204866153034585802MY5919MASJID RIBAT AL NUR6011TANAH MERAH6105175006304FB6D",
     supportedPayment: ["duitnow", "tng"],
-    coords: [],
   },
   {
     id: 412,
@@ -4819,7 +4686,6 @@ export const institutions: Institution[] = [
     qrImage: "",
     qrContent: "00020201021126620014A000000615000101065641670215QRMID00000010520311011106814185204866153034585802MY5919MADRASAH AL SUKRIAH6011TANAH MERAH6105175106304AE93",
     supportedPayment: ["duitnow", "tng"],
-    coords: [],
   },
   {
     id: 413,
@@ -4830,7 +4696,6 @@ export const institutions: Institution[] = [
     qrImage: "",
     qrContent: "00020201021126610014A000000615000101065641670215QRMID0000001115031001374403115204866153034585802MY5918SURAU AL ISTIQAMAH6011TANAH MERAH61051750063044021",
     supportedPayment: ["duitnow", "tng"],
-    coords: [],
   },
   {
     id: 414,
@@ -4841,7 +4706,6 @@ export const institutions: Institution[] = [
     qrImage: "",
     qrContent: "00020201021126610014A000000615000101065641670215QRMID0000001167031001990287585204866153034585802MY5915MASJID AL BAQTY6011TANAH MERAH61051750063048817",
     supportedPayment: ["duitnow", "tng"],
-    coords: [],
   },
   {
     id: 415,
@@ -4852,7 +4716,6 @@ export const institutions: Institution[] = [
     qrImage: "",
     qrContent: "00020201021126610014A000000615000101065641670215QRMID0000001199031001935862015204866153034585802MY5922MASJID KG BUKIT KECHIK6011TANAH MERAH61051750063047AC1",
     supportedPayment: ["duitnow", "tng"],
-    coords: [],
   },
   {
     id: 416,
@@ -4863,7 +4726,6 @@ export const institutions: Institution[] = [
     qrImage: "",
     qrContent: "00020201021126610014A000000615000101065641670215QRMID0000001431031001925198295204866153034585802MY5920MJD KETUA JAJAHAN TM6011TANAH MERAH61051750063047293",
     supportedPayment: ["duitnow", "tng"],
-    coords: [],
   },
   {
     id: 417,
@@ -4874,7 +4736,6 @@ export const institutions: Institution[] = [
     qrImage: "",
     qrContent: "00020201021126610014A000000615000101065641670215QRMID0000001543031001399302275204866153034585802MY5919MASJID MUKIM RAMBAI6011TANAH MERAH61051750063044150",
     supportedPayment: ["duitnow", "tng"],
-    coords: [],
   },
   {
     id: 418,
@@ -4885,7 +4746,6 @@ export const institutions: Institution[] = [
     qrImage: "",
     qrContent: "00020201021126610014A000000615000101065641670215QRMID0000001542031001991753475204866153034585802MY5916MASJID AL-IHSAAN6011TANAH MERAH61051750063049F44",
     supportedPayment: ["duitnow", "tng"],
-    coords: [],
   },
   {
     id: 419,
@@ -4896,7 +4756,6 @@ export const institutions: Institution[] = [
     qrImage: "",
     qrContent: "00020201021126610014A000000615000101065641670215QRMID0000001763031001398369295204866153034585802MY5918MASJID SULAIMANIAH6011TANAH MERAH61051750063049013",
     supportedPayment: ["duitnow", "tng"],
-    coords: [],
   },
   {
     id: 420,
@@ -4907,7 +4766,6 @@ export const institutions: Institution[] = [
     qrImage: "",
     qrContent: "00020201021126610014A000000615000101065641670215QRMID0000001836031001794736265204866153034585802MY5916SURAU BATU GARAM6011TANAH MERAH6105175006304EF4B",
     supportedPayment: ["duitnow", "tng"],
-    coords: [],
   },
   {
     id: 421,
@@ -4918,7 +4776,6 @@ export const institutions: Institution[] = [
     qrImage: "",
     qrContent: "00020201021126610014A000000615000101065641670215QRMID0000002264031001997655335204866153034585802MY5923JK MJD MUKIM PALOH RAWA6007MACHANG6105185006304B2AE",
     supportedPayment: ["duitnow", "tng"],
-    coords: [],
   },
   {
     id: 422,
@@ -4929,7 +4786,6 @@ export const institutions: Institution[] = [
     qrImage: "",
     qrContent: "00020201021126620014A000000615000101065641670215QRMID00000022740311011293373575204829953034585802MY5923TAHFIZ AL QURAN T.MERAH6011TANAH MERAH6105175006304801B",
     supportedPayment: ["duitnow", "tng"],
-    coords: [],
   },
   {
     id: 423,
@@ -4940,7 +4796,6 @@ export const institutions: Institution[] = [
     qrImage: "",
     qrContent: "00020201021126610014A000000615000101065641670215QRMID0000003115031001993194505204866153034585802MY5919MADRASAH PAK SU LAH6011TANAH MERAH61051750063044EB9",
     supportedPayment: ["duitnow", "tng"],
-    coords: [],
   },
   {
     id: 424,
@@ -4951,7 +4806,6 @@ export const institutions: Institution[] = [
     qrImage: "",
     qrContent: "00020201021126610014A000000615000101065641670215QRMID0000003487031001451716015204866153034585802MY5916PONDOK LEBAI LEH6011TANAH MERAH610517500630408D1",
     supportedPayment: ["duitnow", "tng"],
-    coords: [],
   },
   {
     id: 425,
@@ -4962,7 +4816,6 @@ export const institutions: Institution[] = [
     qrImage: "",
     qrContent: "00020201021126610014A000000615000101065641670215QRMID0000004032031001991666495204866153034585802MY5916MASJID IBNU SINA6011TANAH MERAH61051750063044EC6",
     supportedPayment: ["duitnow", "tng"],
-    coords: [],
   },
   {
     id: 426,
@@ -4973,7 +4826,6 @@ export const institutions: Institution[] = [
     qrImage: "",
     qrContent: "00020201021126610014A000000615000101065641670215QRMID0000000216031001998757775204866153034585802MY5925MJD TENGKU ABDULLAH ALHAJ6007KUANTAN610526100630438C6",
     supportedPayment: ["duitnow", "tng"],
-    coords: [],
   },
   {
     id: 427,
@@ -4984,7 +4836,6 @@ export const institutions: Institution[] = [
     qrImage: "",
     qrContent: "00020201021126610014A000000615000101065641670215QRMID0000000219031001393770675204866153034585802MY5924MASJID SULTAN AHMAD SHAH6007KUANTAN61052510063040B81",
     supportedPayment: ["duitnow", "tng"],
-    coords: [],
   },
   {
     id: 428,
@@ -4995,7 +4846,6 @@ export const institutions: Institution[] = [
     qrImage: "",
     qrContent: "00020201021126610014A000000615000101065641670215QRMID0000000229031001346734945204866153034585802MY5923MAAHAD TAHFIZ MUHAMMADI6007KUANTAN61052515063043238",
     supportedPayment: ["duitnow", "tng"],
-    coords: [],
   },
   {
     id: 429,
@@ -5006,7 +4856,6 @@ export const institutions: Institution[] = [
     qrImage: "",
     qrContent: "00020201021126620014A000000615000101065641670215QRMID00000005890311011132374165204866153034585802MY5918SURAU TAJUL AKHBAR6007KUANTAN6105252006304AC0C",
     supportedPayment: ["duitnow", "tng"],
-    coords: [],
   },
   {
     id: 430,
@@ -5017,7 +4866,6 @@ export const institutions: Institution[] = [
     qrImage: "",
     qrContent: "00020201021126610014A000000615000101065641670215QRMID0000000642031001398068765204866153034585802MY5922SURAU AR RAUDHAH IM 136007KUANTAN6105252006304B2A2",
     supportedPayment: ["duitnow", "tng"],
-    coords: [],
   },
   {
     id: 431,
@@ -5028,7 +4876,6 @@ export const institutions: Institution[] = [
     qrImage: "",
     qrContent: "00020201021126610014A000000615000101065641670215QRMID0000001065031001995977325204533153034585802MY5906BERKAT6007KUANTAN61052520063047D31",
     supportedPayment: ["duitnow", "tng"],
-    coords: [],
   },
   {
     id: 432,
@@ -5039,7 +4886,6 @@ export const institutions: Institution[] = [
     qrImage: "",
     qrContent: "00020201021126610014A000000615000101065641670215QRMID0000000044031001939121195204866153034585802MY5925MASJID ABU BAKAR MENTAKAB6008MENTAKAB61052840063043231",
     supportedPayment: ["duitnow", "tng"],
-    coords: [],
   },
   {
     id: 433,
@@ -5050,7 +4896,6 @@ export const institutions: Institution[] = [
     qrImage: "",
     qrContent: "00020201021126610014A000000615000101065641670215QRMID0000000079031001696065105204866153034585802MY5916MASJID KG CHATIN6008MENTAKAB6105284006304E644",
     supportedPayment: ["duitnow", "tng"],
-    coords: [],
   },
   {
     id: 434,
@@ -5061,7 +4906,6 @@ export const institutions: Institution[] = [
     qrImage: "",
     qrContent: "00020201021126610014A000000615000101065641670215QRMID0000000078031001998335435204866153034585802MY5923MASJID KG RAJA SONGSANG6008TEMERLOH6105280006304664A",
     supportedPayment: ["duitnow", "tng"],
-    coords: [],
   },
   {
     id: 435,
@@ -5072,7 +4916,6 @@ export const institutions: Institution[] = [
     qrImage: "",
     qrContent: "00020201021126610014A000000615000101065641670215QRMID0000002407031001696065705204866153034585802MY5916KK MJD KG CHATIN6008MENTAKAB61052840063041642",
     supportedPayment: ["duitnow", "tng"],
-    coords: [],
   },
   {
     id: 436,
@@ -5083,7 +4926,6 @@ export const institutions: Institution[] = [
     qrImage: "",
     qrContent: "00020201021126610014A000000615000101065641670215QRMID0000002408031001995520615204866153034585802MY5919KK MJD SRI SEMANTAN6008TEMERLOH6105280006304ABDC",
     supportedPayment: ["duitnow", "tng"],
-    coords: [],
   },
   {
     id: 437,
@@ -5094,7 +4936,6 @@ export const institutions: Institution[] = [
     qrImage: "",
     qrContent: "00020201021126610014A000000615000101065641670215QRMID0000000191031001998991985204866153034585802MY5921MASJID AT-TAQWA PEKAN6005PEKAN61052660063042483",
     supportedPayment: ["duitnow", "tng"],
-    coords: [],
   },
   {
     id: 438,
@@ -5105,7 +4946,6 @@ export const institutions: Institution[] = [
     qrImage: "",
     qrContent: "00020201021126610014A000000615000101065641670215QRMID0000000192031001393887305204866153034585802MY5923MJD KAMPONG PADANG POLO6005PEKAN61052660063042446",
     supportedPayment: ["duitnow", "tng"],
-    coords: [],
   },
   {
     id: 439,
@@ -5116,7 +4956,6 @@ export const institutions: Institution[] = [
     qrImage: "",
     qrContent: "00020201021126610014A000000615000101065641670215QRMID0000000223031001393444055204866153034585802MY5921MASJID KG ACHEH PEKAN6005PEKAN6105266006304CBAB",
     supportedPayment: ["duitnow", "tng"],
-    coords: [],
   },
   {
     id: 440,
@@ -5127,7 +4966,6 @@ export const institutions: Institution[] = [
     qrImage: "",
     qrContent: "00020201021126610014A000000615000101065641670215QRMID0000000245031001296902455204866153034585802MY5921MASJID KG PULAU SERAI6005PEKAN61052660063043645",
     supportedPayment: ["duitnow", "tng"],
-    coords: [],
   },
   {
     id: 441,
@@ -5138,7 +4976,6 @@ export const institutions: Institution[] = [
     qrImage: "",
     qrContent: "00020201021126610014A000000615000101065641670215QRMID0000000657031001987093575204533153034585802MY5920DRB HICOM UNIVERSITY6009SHAH ALAM6105402206304E335",
     supportedPayment: ["duitnow", "tng"],
-    coords: [],
   },
   {
     id: 442,
@@ -5149,7 +4986,6 @@ export const institutions: Institution[] = [
     qrImage: "",
     qrContent: "00020201021126610014A000000615000101065641670215QRMID0000000960031001987093575204866153034585802MY5916SURAU AL-RAHIMAH6005PEKAN61052660763047808",
     supportedPayment: ["duitnow", "tng"],
-    coords: [],
   },
   {
     id: 443,
@@ -5160,7 +4996,6 @@ export const institutions: Institution[] = [
     qrImage: "",
     qrContent: "00020201021126610014A000000615000101065641670215QRMID0000000011031001483288915204866153034585802MY5922MASJID BARU D TEMERLOH6008TEMERLOH6105280006304A0C0",
     supportedPayment: ["duitnow", "tng"],
-    coords: [],
   },
   {
     id: 444,
@@ -5171,7 +5006,6 @@ export const institutions: Institution[] = [
     qrImage: "",
     qrContent: "00020201021126610014A000000615000101065641670215QRMID0000000829031001691666085204866153034585802MY5922MJD ABU BAKAR TEMERLOH6008TEMERLOH61052800063045877",
     supportedPayment: ["duitnow", "tng"],
-    coords: [],
   },
   {
     id: 445,
@@ -5182,7 +5016,6 @@ export const institutions: Institution[] = [
     qrImage: "",
     qrContent: "00020201021126610014A000000615000101065641670215QRMID0000001062031001450863535204866153034585802MY5915SURAU AL MARJAN6008TEMERLOH61052800063041CE2",
     supportedPayment: ["duitnow", "tng"],
-    coords: [],
   },
   {
     id: 446,
@@ -5193,7 +5026,6 @@ export const institutions: Institution[] = [
     qrImage: "",
     qrContent: "00020201021126610014A000000615000101065641670215QRMID0000001061031001996507475204866153034585802MY5924SURAU TAMAN MERBAU INDAH6006TRIANG61052830063046AB3",
     supportedPayment: ["duitnow", "tng"],
-    coords: [],
   },
   {
     id: 447,
@@ -5204,7 +5036,6 @@ export const institutions: Institution[] = [
     qrImage: "",
     qrContent: "00020201021126610014A000000615000101065641670215QRMID0000000550031001952753695204866153034585802MY5920MASJID AL MUQARRABIN6005KULIM61050900063043C6B",
     supportedPayment: ["duitnow", "tng"],
-    coords: [],
   },
   {
     id: 448,
@@ -5215,7 +5046,6 @@ export const institutions: Institution[] = [
     qrImage: "",
     qrContent: "00020201021126610014A000000615000101065641670215QRMID0000000023031001391825775204866153034585802MY5925MJD IBNU ABBAS PKL NYIREH6005BESUT61052220063041F9F",
     supportedPayment: ["duitnow", "tng"],
-    coords: [],
   },
   {
     id: 449,
@@ -5226,7 +5056,6 @@ export const institutions: Institution[] = [
     qrImage: "",
     qrContent: "00020201021126610014A000000615000101065641670215QRMID0000000026031001995539995204866153034585802MY5925MASJID KAMPUNG TELUK BAYU6005BESUT61052220063041F8F",
     supportedPayment: ["duitnow", "tng"],
-    coords: [],
   },
   {
     id: 450,
@@ -5237,7 +5066,6 @@ export const institutions: Institution[] = [
     qrImage: "",
     qrContent: "00020201021126600014A000000615000101065641670215QRMID000000002503090173993555204866153034585802MY5921MASJID KG NYIUR TUJUH6005BESUT61052220063047CFC",
     supportedPayment: ["duitnow", "tng"],
-    coords: [],
   },
   {
     id: 451,
@@ -5248,7 +5076,6 @@ export const institutions: Institution[] = [
     qrImage: "",
     qrContent: "00020201021126610014A000000615000101065641670215QRMID0000001020031001993474755204866153034585802MY5923TABUNG KHAIRAT KEMATIAN6005BESUT61052200063045B8E",
     supportedPayment: ["duitnow", "tng"],
-    coords: [],
   },
   {
     id: 452,
@@ -5259,7 +5086,6 @@ export const institutions: Institution[] = [
     qrImage: "",
     qrContent: "00020201021126610014A000000615000101065641670215QRMID0000001139031001393714145204866153034585802MY5922MASJID NASIRUDDIN SHAH6007KG RAJA6105222006304CB5B",
     supportedPayment: ["duitnow", "tng"],
-    coords: [],
   },
   {
     id: 453,
@@ -5270,7 +5096,6 @@ export const institutions: Institution[] = [
     qrImage: "",
     qrContent: "00020201021126610014A000000615000101065641670215QRMID0000001380031001993405065204866153034585802MY5920MASJID KG AWEK DARAU6006JERTEH610522000630443BA",
     supportedPayment: ["duitnow", "tng"],
-    coords: [],
   },
   {
     id: 454,
@@ -5281,7 +5106,6 @@ export const institutions: Institution[] = [
     qrImage: "",
     qrContent: "00020201021126610014A000000615000101065641670215QRMID0000004524031001696040885204866153034585802MY5919MASJID KAMPONG AMER6007KG RAJA6105222006304DB6A",
     supportedPayment: ["duitnow", "tng"],
-    coords: [],
   },
   {
     id: 455,
@@ -5292,7 +5116,6 @@ export const institutions: Institution[] = [
     qrImage: "",
     qrContent: "00020201021126610014A000000615000101065641670215QRMID0000000064031001385621025204866153034585802MY5925MJD JAMEK LAYANG-LAYANGAN6006LABUAN6105870006304C602",
     supportedPayment: ["duitnow", "tng"],
-    coords: [],
   },
   {
     id: 456,
@@ -5303,7 +5126,6 @@ export const institutions: Institution[] = [
     qrImage: "",
     qrContent: "00020201021126610014A000000615000101065641670215QRMID0000000172031001385994825204866153034585802MY5925MJD AL-FALAH KG BKT KALAM6006LABUAN6105870196304D33A",
     supportedPayment: ["duitnow", "tng"],
-    coords: [],
   },
   {
     id: 457,
@@ -5314,7 +5136,6 @@ export const institutions: Institution[] = [
     qrImage: "",
     qrContent: "00020201021126610014A000000615000101065641670215QRMID0000000221031001936889315204866153034585802MY5919MASJID JAMEK AN-NUR6006LABUAN6105870296304ECE4",
     supportedPayment: ["duitnow", "tng"],
-    coords: [],
   },
   {
     id: 458,
@@ -5325,7 +5146,6 @@ export const institutions: Institution[] = [
     qrImage: "",
     qrContent: "00020201021126610014A000000615000101065641670215QRMID0000000268031001385442325204866153034585802MY5918SURAU AL-MUBARAKAH6009WP LABUAN6105870176304BB67",
     supportedPayment: ["duitnow", "tng"],
-    coords: [],
   },
   {
     id: 459,
@@ -5336,7 +5156,6 @@ export const institutions: Institution[] = [
     qrImage: "",
     qrContent: "00020201021126610014A000000615000101065641670215QRMID0000000337031001982247605204866153034585802MY5920SURAU KG KILAN KASIM6006LABUAN6105870306304E239",
     supportedPayment: ["duitnow", "tng"],
-    coords: [],
   },
   {
     id: 460,
@@ -5347,7 +5166,6 @@ export const institutions: Institution[] = [
     qrImage: "",
     qrContent: "00020201021126610014A000000615000101065641670215QRMID0000000338031001684042525204866153034585802MY5919SURAU BAITUL MAKMUR6006LABUAN61058700863041B07",
     supportedPayment: ["duitnow", "tng"],
-    coords: [],
   },
   {
     id: 461,
@@ -5358,7 +5176,6 @@ export const institutions: Institution[] = [
     qrImage: "",
     qrContent: "00020201021126610014A000000615000101065641670215QRMID0000000407031001986304455204533153034585802MY5910PDK LABUAN6006LABUAN6105870076304E652",
     supportedPayment: ["duitnow", "tng"],
-    coords: [],
   },
   {
     id: 462,
@@ -5369,7 +5186,6 @@ export const institutions: Institution[] = [
     qrImage: "",
     qrContent: "00020201021126610014A000000615000101065641670215QRMID0000003636031001355137565204866153034585802MY5919SURAU AL IRFAAN KML6015 WILAYAH PERSEK610587027630402F2",
     supportedPayment: ["duitnow", "tng"],
-    coords: [],
   },
   {
     id: 463,
@@ -5380,7 +5196,6 @@ export const institutions: Institution[] = [
     qrImage: "",
     qrContent: "00020201021126610014A000000615000101065641670215QRMID0000000208031001385808055204866153034585802MY5921MASJID BANDARAYA KK-26013KOTA KINABALU61058800063043328",
     supportedPayment: ["duitnow", "tng"],
-    coords: [],
   },
   {
     id: 464,
@@ -5391,7 +5206,6 @@ export const institutions: Institution[] = [
     qrImage: "",
     qrContent: "00020201021126610014A000000615000101065641670215QRMID0000000209031001789903465204866153034585802MY5915AKADEMI QURANIS6013KOTA KINABALU610588000630404D3",
     supportedPayment: ["duitnow", "tng"],
-    coords: [],
   },
   {
     id: 465,
@@ -5402,7 +5216,6 @@ export const institutions: Institution[] = [
     qrImage: "",
     qrContent: "00020201021126610014A000000615000101065641670215QRMID0000000348031001435315375204866153034585802MY5924MASJID AL KAUTHAR TG.ARU6013KOTA KINABALU6105888586304CFD4",
     supportedPayment: ["duitnow", "tng"],
-    coords: [],
   },
   {
     id: 466,
@@ -5413,7 +5226,6 @@ export const institutions: Institution[] = [
     qrImage: "",
     qrContent: "00020201021126610014A000000615000101065641670215QRMID0000000989031001280365555204866153034585802MY5921MASJID DAERAH PUTATAN6007PUTATAN61058220063042A94",
     supportedPayment: ["duitnow", "tng"],
-    coords: [],
   },
   {
     id: 467,
@@ -5424,7 +5236,6 @@ export const institutions: Institution[] = [
     qrImage: "",
     qrContent: "00020201021126610014A000000615000101065641670215QRMID0000001485031001953153135204866153034585802MY5918MASJID NURUL IHSAN6013KOTA KINABALU6105887256304FAFE",
     supportedPayment: ["duitnow", "tng"],
-    coords: [],
   },
   {
     id: 468,
@@ -5435,7 +5246,6 @@ export const institutions: Institution[] = [
     qrImage: "",
     qrContent: "00020201021126610014A000000615000101065641670215QRMID0000000121031001388013155204866153034585802MY5924MASJID TMN WAWASAN TAWAU6005TAWAU6105910006304737B",
     supportedPayment: ["duitnow", "tng"],
-    coords: [],
   },
   {
     id: 469,
@@ -5446,7 +5256,6 @@ export const institutions: Institution[] = [
     qrImage: "",
     qrContent: "00020201021126610014A000000615000101065641670215QRMID0000000156031001958185325204866153034585802MY5924MJD AZ-ZAEEMAH BSI TAWAU6005TAWAU610591000630445A1",
     supportedPayment: ["duitnow", "tng"],
-    coords: [],
   },
   {
     id: 470,
@@ -5457,7 +5266,6 @@ export const institutions: Institution[] = [
     qrImage: "",
     qrContent: "00020201021126610014A000000615000101065641670215QRMID0000002365031001260719205204866153034585802MY5913SURAU AL AMIN6004MUAR61058400063046C95",
     supportedPayment: ["duitnow", "tng"],
-    coords: [],
   },
   {
     id: 471,
@@ -5468,7 +5276,6 @@ export const institutions: Institution[] = [
     qrImage: "",
     qrContent: "00020201021126610014A000000615000101065641670215QRMID0000000361031001981132335204866153034585802MY5925MD AD-DINIAH AR-RAHMANIAH6005TAWAU6105910086304A9CC",
     supportedPayment: ["duitnow", "tng"],
-    coords: [],
   },
   {
     id: 472,
@@ -5479,7 +5286,6 @@ export const institutions: Institution[] = [
     qrImage: "",
     qrContent: "00020201021126610014A000000615000101065641670215QRMID0000000559031001688197635204866153034585802MY5924MASJID AL UBUDIAH BRUMAS6005TAWAU61059101963044AE1",
     supportedPayment: ["duitnow", "tng"],
-    coords: [],
   },
   {
     id: 473,
@@ -5490,7 +5296,6 @@ export const institutions: Institution[] = [
     qrImage: "",
     qrContent: "00020201021126610014A000000615000101065641670215QRMID0000000969031001131616705204866153034585802MY5919MASJID BANDAR TAWAU6005TAWAU6105910006304E5A1",
     supportedPayment: ["duitnow", "tng"],
-    coords: [],
   },
   {
     id: 474,
@@ -5501,7 +5306,6 @@ export const institutions: Institution[] = [
     qrImage: "",
     qrContent: "00020201021126610014A000000615000101065641670215QRMID0000000976031001388563985204866153034585802MY5923JTK MASJID BABUS SAADAH6005TAWAU61059100063049BF1",
     supportedPayment: ["duitnow", "tng"],
-    coords: [],
   },
   {
     id: 475,
@@ -5512,7 +5316,6 @@ export const institutions: Institution[] = [
     qrImage: "",
     qrContent: "00020201021126610014A000000615000101065641670215QRMID0000001036031001987120775204866153034585802MY5922MASJID UKHWATUL IMARAH6005TAWAU6105910006304ACFC",
     supportedPayment: ["duitnow", "tng"],
-    coords: [],
   },
   {
     id: 476,
@@ -5523,7 +5326,6 @@ export const institutions: Institution[] = [
     qrImage: "",
     qrContent: "00020201021126610014A000000615000101065641670215QRMID0000001058031001688132375204866153034585802MY5921SMBGN MASJID AL FALAH6005TAWAU61059100063047078",
     supportedPayment: ["duitnow", "tng"],
-    coords: [],
   },
   {
     id: 477,
@@ -5534,7 +5336,6 @@ export const institutions: Institution[] = [
     qrImage: "",
     qrContent: "00020201021126610014A000000615000101065641670215QRMID0000001173031001982224905204866153034585802MY5917SURAU BABURRAHMAH6005TAWAU61059100063043593",
     supportedPayment: ["duitnow", "tng"],
-    coords: [],
   },
   {
     id: 478,
@@ -5545,7 +5346,6 @@ export const institutions: Institution[] = [
     qrImage: "",
     qrContent: "00020201021126620014A000000615000101065641670215QRMID00000011720311011141966465204866153034585802MY5918SURAU AT-TAUFIQIAH6005TAWAU6105910006304426F",
     supportedPayment: ["duitnow", "tng"],
-    coords: [],
   },
   {
     id: 479,
@@ -5556,7 +5356,6 @@ export const institutions: Institution[] = [
     qrImage: "",
     qrContent: "00020201021126610014A000000615000101065641670215QRMID0000001372031001283489005204866153034585802MY5921MASJID CAHAYA RAUDHAH6005TAWAU61059100063044928",
     supportedPayment: ["duitnow", "tng"],
-    coords: [],
   },
   {
     id: 480,
@@ -5567,7 +5366,6 @@ export const institutions: Institution[] = [
     qrImage: "",
     qrContent: "00020201021126620014A000000615000101065641670215QRMID00000017490311011178327705204866153034585802MY5920MADRASAH WADI AN-NUR6005TAWAU61059102163040101",
     supportedPayment: ["duitnow", "tng"],
-    coords: [],
   },
   {
     id: 481,
@@ -5578,7 +5376,6 @@ export const institutions: Institution[] = [
     qrImage: "",
     qrContent: "00020201021126610014A000000615000101065641670215QRMID0000004464031001683189285204866153034585802MY5914SURAU AS-SYIFA6005TAWAU6105910076304F79F",
     supportedPayment: ["duitnow", "tng"],
-    coords: [],
   },
   {
     id: 482,
@@ -5589,7 +5386,6 @@ export const institutions: Institution[] = [
     qrImage: "",
     qrContent: "00020201021126610014A000000615000101065641670215QRMID0000000074031001988567955204866153034585802MY5922MASJID AL-AMIN K TATAU6007BINTULU6105970006304E5C2",
     supportedPayment: ["duitnow", "tng"],
-    coords: [],
   },
   {
     id: 483,
@@ -5600,7 +5396,6 @@ export const institutions: Institution[] = [
     qrImage: "",
     qrContent: "00020201021126610014A000000615000101065641670215QRMID0000000406031001985521445204866153034585802MY5923MJD DARUL KHAIRAT BAKAM6004MIRI61059800063041BB2",
     supportedPayment: ["duitnow", "tng"],
-    coords: [],
   },
   {
     id: 484,
@@ -5611,7 +5406,6 @@ export const institutions: Institution[] = [
     qrImage: "",
     qrContent: "00020201021126610014A000000615000101065641670215QRMID0000000501031001458190795204866153034585802MY5917SURAU DARUS SALAM6004MIRI6105980006304B16A",
     supportedPayment: ["duitnow", "tng"],
-    coords: [],
   },
   {
     id: 485,
@@ -5622,7 +5416,6 @@ export const institutions: Institution[] = [
     qrImage: "",
     qrContent: "00020201021126610014A000000615000101065641670215QRMID0000000503031001384065355204866153034585802MY5917MASJID NUR HIJRAH6004MIRI6105980006304ADEA",
     supportedPayment: ["duitnow", "tng"],
-    coords: [],
   },
   {
     id: 486,
@@ -5633,7 +5426,6 @@ export const institutions: Institution[] = [
     qrImage: "",
     qrContent: "00020201021126610014A000000615000101065641670215QRMID0000000030031001356147755204866153034585802MY5922JKP MASJID NUR SA'ADAH6007KUCHING6105930506304A409",
     supportedPayment: ["duitnow", "tng"],
-    coords: [],
   },
   {
     id: 487,
@@ -5644,7 +5436,6 @@ export const institutions: Institution[] = [
     qrImage: "",
     qrContent: "00020201021126610014A000000615000101065641670215QRMID0000000095031001381674285204866153034585802MY5924MJD AL-ABYAD MATANG JAYA6007KUCHING61059305063048C8B",
     supportedPayment: ["duitnow", "tng"],
-    coords: [],
   },
   {
     id: 488,
@@ -5655,7 +5446,6 @@ export const institutions: Institution[] = [
     qrImage: "",
     qrContent: "00020201021126610014A000000615000101065641670215QRMID0000000104031001985755675204866153034585802MY5925MJD DARUL HUSNI WARRAHMAH6007KUCHING610593050630448B7",
     supportedPayment: ["duitnow", "tng"],
-    coords: [],
   },
   {
     id: 489,
@@ -5666,7 +5456,6 @@ export const institutions: Institution[] = [
     qrImage: "",
     qrContent: "00020201021126610014A000000615000101065641670215QRMID0000000144031001988557475204866153034585802MY5920MASJID NURIR RAHMANI6007KUCHING610593050630498E6",
     supportedPayment: ["duitnow", "tng"],
-    coords: [],
   },
   {
     id: 490,
@@ -5677,7 +5466,6 @@ export const institutions: Institution[] = [
     qrImage: "",
     qrContent: "00020201021126610014A000000615000101065641670215QRMID0000000145031001381940235204866153034585802MY5921MASJID DARUL FARHANAH6007KUCHING6105934006304108B",
     supportedPayment: ["duitnow", "tng"],
-    coords: [],
   },
   {
     id: 491,
@@ -5688,7 +5476,6 @@ export const institutions: Institution[] = [
     qrImage: "",
     qrContent: "00020201021126610014A000000615000101065641670215QRMID0000000146031001686287845204866153034585802MY5915SURAU ISTIQOMAH6007KUCHING610593050630468A2",
     supportedPayment: ["duitnow", "tng"],
-    coords: [],
   },
   {
     id: 492,
@@ -5699,7 +5486,6 @@ export const institutions: Institution[] = [
     qrImage: "",
     qrContent: "00020201021126610014A000000615000101065641670215QRMID0000000147031001289877295204866153034585802MY5917MASJID DARUL IMAN6007KUCHING6105932506304779D",
     supportedPayment: ["duitnow", "tng"],
-    coords: [],
   },
   {
     id: 493,
@@ -5710,7 +5496,6 @@ export const institutions: Institution[] = [
     qrImage: "",
     qrContent: "00020201021126610014A000000615000101065641670215QRMID0000000272031001988625405204866153034585802MY5923AL MADRASAH AL ISLAMIAH6007KUCHING61059305063049357",
     supportedPayment: ["duitnow", "tng"],
-    coords: [],
   },
   {
     id: 494,
@@ -5721,7 +5506,6 @@ export const institutions: Institution[] = [
     qrImage: "",
     qrContent: "00020201021126610014A000000615000101065641670215QRMID0000000273031001982623465204866153034585802MY5924MDRASAH JANNATUL KHAIRAN6007KUCHING6105930506304B01C",
     supportedPayment: ["duitnow", "tng"],
-    coords: [],
   },
   {
     id: 495,
@@ -5732,7 +5516,6 @@ export const institutions: Institution[] = [
     qrImage: "",
     qrContent: "00020201021126610014A000000615000101065641670215QRMID0000000284031001981730015204866153034585802MY5917MASJID DEMAK BARU6007KUCHING6105934006304CB6E",
     supportedPayment: ["duitnow", "tng"],
-    coords: [],
   },
   {
     id: 496,
@@ -5743,7 +5526,6 @@ export const institutions: Institution[] = [
     qrImage: "",
     qrContent: "00020201021126610014A000000615000101065641670215QRMID0000000409031001383198225204866153034585802MY5924PUSAT PENGAJIAN TAFAQQUH6007KUCHING6105930506304C636",
     supportedPayment: ["duitnow", "tng"],
-    coords: [],
   },
   {
     id: 497,
@@ -5754,7 +5536,6 @@ export const institutions: Institution[] = [
     qrImage: "",
     qrContent: "00020201021126610014A000000615000101065641670215QRMID0000000998031001392774145204866153034585802MY5924MJD SOLAHUDDIN AL-AYUBBI6007KUCHING6105936776304E6FA",
     supportedPayment: ["duitnow", "tng"],
-    coords: [],
   },
   {
     id: 498,
@@ -5765,7 +5546,6 @@ export const institutions: Institution[] = [
     qrImage: "",
     qrContent: "00020201021126620014A000000615000101065641670215QRMID00000010180311011193871385204829953034585802MY5922SEKOLAH TAHFIZ AR RAZI6007KUCHING6105930506304562E",
     supportedPayment: ["duitnow", "tng"],
-    coords: [],
   },
   {
     id: 499,
@@ -5776,7 +5556,6 @@ export const institutions: Institution[] = [
     qrImage: "",
     qrContent: "00020201021126610014A000000615000101065641670215QRMID0000001720031001285549565204866153034585802MY5924PMBNAAN SURAU DARUL HUDA6007KUCHING61059305063048DEB",
     supportedPayment: ["duitnow", "tng"],
-    coords: [],
   },
   {
     id: 500,
@@ -5787,7 +5566,6 @@ export const institutions: Institution[] = [
     qrImage: "",
     qrContent: "00020201021126610014A000000615000101065641670215QRMID0000003055031001285587545204866153034585802MY5919SURAU BAITUL MAKMUR6007KUCHING6105930506304CA67",
     supportedPayment: ["duitnow", "tng"],
-    coords: [],
   },
   {
     id: 501,
@@ -5798,7 +5576,6 @@ export const institutions: Institution[] = [
     qrImage: "",
     qrContent: "00020201021126610014A000000615000101065641670215QRMID0000000087031001946599065204866153034585802MY5920SRI RAUDHATUL JANNAH6005KULIM6105090006304AB2D",
     supportedPayment: ["duitnow", "tng"],
-    coords: [],
   },
   {
     id: 502,
@@ -5809,7 +5586,6 @@ export const institutions: Institution[] = [
     qrImage: "",
     qrContent: "00020201021126610014A000000615000101065641670215QRMID0000000092031001644091795204866153034585802MY5925JK QARYAH MJD TM RIA JAYA6013SUNGAI PETANI61050800063042D2F",
     supportedPayment: ["duitnow", "tng"],
-    coords: [],
   },
   {
     id: 503,
@@ -5820,7 +5596,6 @@ export const institutions: Institution[] = [
     qrImage: "",
     qrContent: "00020201021126610014A000000615000101065641670215QRMID0000000105031001944217835204866153034585802MY5925KRAT MJD AL JAMIUL MAKMUR6005KULIM61050900063048E91",
     supportedPayment: ["duitnow", "tng"],
-    coords: [],
   },
   {
     id: 504,
@@ -5831,7 +5606,6 @@ export const institutions: Institution[] = [
     qrImage: "",
     qrContent: "00020201021126610014A000000615000101065641670215QRMID0000000133031001247126545204866153034585802MY5925MJ AL-GHUFRAN AKAR PELURU6010ALOR SETAR6105050006304DFE9",
     supportedPayment: ["duitnow", "tng"],
-    coords: [],
   },
   {
     id: 505,
@@ -5842,7 +5616,6 @@ export const institutions: Institution[] = [
     qrImage: "",
     qrContent: "00020201021126610014A000000615000101065641670215QRMID0000000138031001988880605204866153034585802MY5919KARIAH MASJID LUNAS6005KULIM610509000630411DF",
     supportedPayment: ["duitnow", "tng"],
-    coords: [],
   },
   {
     id: 506,
@@ -5853,7 +5626,6 @@ export const institutions: Institution[] = [
     qrImage: "",
     qrContent: "00020201021126610014A000000615000101065641670215QRMID0000000160031001644091795204866153034585802MY5921MASJID TAMAN RIA JAYA6013SUNGAI PETANI61050800063042BD8",
     supportedPayment: ["duitnow", "tng"],
-    coords: [],
   },
   {
     id: 507,
@@ -5864,7 +5636,6 @@ export const institutions: Institution[] = [
     qrImage: "",
     qrContent: "00020201021126610014A000000615000101065641670215QRMID0000000193031001240855405204866153034585802MY5923MASJID SULTANAH BAHIYAH6010ALOR SETAR610505350630407A4",
     supportedPayment: ["duitnow", "tng"],
-    coords: [],
   },
   {
     id: 508,
@@ -5875,7 +5646,6 @@ export const institutions: Institution[] = [
     qrImage: "",
     qrContent: "00020201021126610014A000000615000101065641670215QRMID0000000195031001941474495204866153034585802MY5919MASJID ABDUL RAHMAN6013SUNGAI PETANI6105080006304E0CD",
     supportedPayment: ["duitnow", "tng"],
-    coords: [],
   },
   {
     id: 509,
@@ -5886,7 +5656,6 @@ export const institutions: Institution[] = [
     qrImage: "",
     qrContent: "00020201021126610014A000000615000101065641670215QRMID0000000199031001941358595204866153034585802MY5921MASJID AL IRFAN DERGA6010ALOR SETAR610505300630408BF",
     supportedPayment: ["duitnow", "tng"],
-    coords: [],
   },
   {
     id: 510,
@@ -5897,7 +5666,6 @@ export const institutions: Institution[] = [
     qrImage: "",
     qrContent: "00020201021126610014A000000615000101065641670215QRMID0000000270031001256192135204866153034585802MY5922MASJID TUNKU ABD MALIK6010ALOR SETAR6105051506304F16E",
     supportedPayment: ["duitnow", "tng"],
-    coords: [],
   },
   {
     id: 511,
@@ -5908,7 +5676,6 @@ export const institutions: Institution[] = [
     qrImage: "",
     qrContent: "00020201021126610014A000000615000101065641670215QRMID0000000307031001342304565204866153034585802MY5924MJD AL HUDA P.SENA DALAM6010POKOK SENA61050640063040619",
     supportedPayment: ["duitnow", "tng"],
-    coords: [],
   },
   {
     id: 512,
@@ -5919,7 +5686,6 @@ export const institutions: Institution[] = [
     qrImage: "",
     qrContent: "00020201021126620014A000000615000101065641670215QRMID00000005070311011242617885204866153034585802MY5914MASJID AL HUDA6005KULIM6105090006304E877",
     supportedPayment: ["duitnow", "tng"],
-    coords: [],
   },
   {
     id: 513,
@@ -5930,7 +5696,6 @@ export const institutions: Institution[] = [
     qrImage: "",
     qrContent: "00020201021126610014A000000615000101065641670215QRMID0000000508031001320023475204866153034585802MY5925MASJID JAMEK PEKAN MERBOK6005KULIM61050900063042AF7",
     supportedPayment: ["duitnow", "tng"],
-    coords: [],
   },
   {
     id: 514,
@@ -5941,7 +5706,6 @@ export const institutions: Institution[] = [
     qrImage: "",
     qrContent: "00020201021126610014A000000615000101065641670215QRMID0000000742031001946170645204866153034585802MY5915SURAU AL HANNAN6014BUKIT MERTAJAM6105140006304C59C",
     supportedPayment: ["duitnow", "tng"],
-    coords: [],
   },
   {
     id: 515,
@@ -5952,7 +5716,6 @@ export const institutions: Institution[] = [
     qrImage: "",
     qrContent: "00020201021126610014A000000615000101065641670215QRMID0000000744031001759165665204533153034585802MY5925DARUL ULUM IHYA ULUMUDDIM6010ALOR SETAR6105065006304135C",
     supportedPayment: ["duitnow", "tng"],
-    coords: [],
   },
   {
     id: 516,
@@ -5963,7 +5726,6 @@ export const institutions: Institution[] = [
     qrImage: "",
     qrContent: "00020201021126610014A000000615000101065641670215QRMID0000000749031001944757085204866153034585802MY5917MASJID AL ARIFFIN6010ALOR SETAR6105053006304BF67",
     supportedPayment: ["duitnow", "tng"],
-    coords: [],
   },
   {
     id: 517,
@@ -5974,7 +5736,6 @@ export const institutions: Institution[] = [
     qrImage: "",
     qrContent: "00020201021126610014A000000615000101065641670215QRMID0000001095031001747244665204866153034585802MY5917SURAU NUR HIDAYAH6010ALOR SETAR61050564063043D1A",
     supportedPayment: ["duitnow", "tng"],
-    coords: [],
   },
   {
     id: 518,
@@ -5985,7 +5746,6 @@ export const institutions: Institution[] = [
     qrImage: "",
     qrContent: "00020201021126610014A000000615000101065641670215QRMID0000000028031001941070335204866153034585802MY5924MASJID AR-RAUDHAH PERLIS6006KANGAR61050100063040F60",
     supportedPayment: ["duitnow", "tng"],
-    coords: [],
   },
   {
     id: 519,
@@ -5996,7 +5756,6 @@ export const institutions: Institution[] = [
     qrImage: "",
     qrContent: "00020201021126610014A000000615000101065641670215QRMID0000000165031001945666425204533153034585802MY5925MADI KG JEJAWI DLM PERLIS6004ARAU6105026006304D138",
     supportedPayment: ["duitnow", "tng"],
-    coords: [],
   },
   {
     id: 520,
@@ -6007,7 +5766,6 @@ export const institutions: Institution[] = [
     qrImage: "",
     qrContent: "00020201021126610014A000000615000101065641670215QRMID0000000205031001343567085204866153034585802MY5924MASJID NURUS SAID SANTAN6006KANGAR6105010006304DAF9",
     supportedPayment: ["duitnow", "tng"],
-    coords: [],
   },
   {
     id: 521,
@@ -6018,7 +5776,6 @@ export const institutions: Institution[] = [
     qrImage: "",
     qrContent: "00020201021126610014A000000615000101065641670215QRMID0000000212031001945485625204866153034585802MY5918MASJID ALWI KANGAR6006KANGAR61050100063041174",
     supportedPayment: ["duitnow", "tng"],
-    coords: [],
   },
   {
     id: 522,
@@ -6029,7 +5786,6 @@ export const institutions: Institution[] = [
     qrImage: "",
     qrContent: "00020201021126620014A000000615000101065641670215QRMID00000031200311011373942275204866153034585802MY5916SURAU PAUH PUTRA6004ARAU61050260063040579",
     supportedPayment: ["duitnow", "tng"],
-    coords: [],
   },
   {
     id: 523,
@@ -6040,7 +5796,6 @@ export const institutions: Institution[] = [
     qrImage: "",
     qrContent: "00020201021126610014A000000615000101065641670215QRMID0000003342031001256543125204866153034585802MY5919WAKAF MASJID UNIMAP6006KANGAR610501000630425E4",
     supportedPayment: ["duitnow", "tng"],
-    coords: [],
   },
   {
     id: 524,
@@ -6051,7 +5806,6 @@ export const institutions: Institution[] = [
     qrImage: "",
     qrContent: "00020201021126610014A000000615000101065641670215QRMID0000000070031001258885425204866153034585802MY5916SURAU AS SOLIHIN6015JELUTONG PENANG610511600630421CC",
     supportedPayment: ["duitnow", "tng"],
-    coords: [],
   },
   {
     id: 525,
@@ -6062,7 +5816,6 @@ export const institutions: Institution[] = [
     qrImage: "",
     qrContent: "00020201021126610014A000000615000101065641670215QRMID0000000136031001254252505204866153034585802MY5922MASJID UMAR ABDUL AZIZ6010BATU MAUNG61051196063041EAB",
     supportedPayment: ["duitnow", "tng"],
-    coords: [],
   },
   {
     id: 526,
@@ -6073,7 +5826,6 @@ export const institutions: Institution[] = [
     qrImage: "",
     qrContent: "00020201021126610014A000000615000101065641670215QRMID0000000153031001655136755204866153034585802MY5920MASJID ALIMSAH WALEY6010GEORGETOWN61051020063047562",
     supportedPayment: ["duitnow", "tng"],
-    coords: [],
   },
   {
     id: 527,
@@ -6084,7 +5836,6 @@ export const institutions: Institution[] = [
     qrImage: "",
     qrContent: "00020201021126610014A000000615000101065641670215QRMID0000000251031001821297485204866153034585802MY5925MASJID TAMAN SG DUA UTAMA6011BUTTERWORTH6105138006304F24D",
     supportedPayment: ["duitnow", "tng"],
-    coords: [],
   },
   {
     id: 528,
@@ -6095,7 +5846,6 @@ export const institutions: Institution[] = [
     qrImage: "",
     qrContent: "00020201021126610014A000000615000101065641670215QRMID0000000311031001945744855204866153034585802MY5923MASJID JAMEK SG.GELUGOR6007GELUGOR61051170063049D41",
     supportedPayment: ["duitnow", "tng"],
-    coords: [],
   },
   {
     id: 529,
@@ -6106,7 +5856,6 @@ export const institutions: Institution[] = [
     qrImage: "",
     qrContent: "00020201021126610014A000000615000101065641670215QRMID0000000464031001340870015204866153034585802MY5919MASJID AL MALIK USM6012PULAU PINANG61051180063041F3B",
     supportedPayment: ["duitnow", "tng"],
-    coords: [],
   },
   {
     id: 530,
@@ -6117,7 +5866,6 @@ export const institutions: Institution[] = [
     qrImage: "",
     qrContent: "00020201021126610014A000000615000101065641670215QRMID0000000491031001753183815204866153034585802MY5915SURAU AL- ISLAM6005PERAI61051370063044741",
     supportedPayment: ["duitnow", "tng"],
-    coords: [],
   },
   {
     id: 531,
@@ -6128,7 +5876,6 @@ export const institutions: Institution[] = [
     qrImage: "",
     qrContent: "00020201021126610014A000000615000101065641670215QRMID0000000516031001941356745204866153034585802MY5923WAKAF MASJID PAPAN BARU6012PULAU PINANG61051350063048DA8",
     supportedPayment: ["duitnow", "tng"],
-    coords: [],
   },
   {
     id: 532,
@@ -6139,7 +5886,6 @@ export const institutions: Institution[] = [
     qrImage: "",
     qrContent: "00020201021126610014A000000615000101065641670215QRMID0000001108031001931529155204866153034585802MY5924LEMBAGA MASJID HAJI SAAD6014BUKIT MERTAJAM6105140006304BE2A",
     supportedPayment: ["duitnow", "tng"],
-    coords: [],
   },
   {
     id: 533,
@@ -6150,7 +5896,6 @@ export const institutions: Institution[] = [
     qrImage: "",
     qrContent: "00020201021126610014A000000615000101065641670215QRMID0000001166031001040610445204866153034585802MY5914MA'HADUL AZHAR6011BUTTERWORTH610513050630463C8",
     supportedPayment: ["duitnow", "tng"],
-    coords: [],
   },
   {
     id: 534,
@@ -6161,7 +5906,6 @@ export const institutions: Institution[] = [
     qrImage: "",
     qrContent: "00020201021126610014A000000615000101065641670215QRMID0000001310031001240994965204866153034585802MY5923SURAU BANDAR BAYAN BARU6010BAYAN BARU6105119506304E567",
     supportedPayment: ["duitnow", "tng"],
-    coords: [],
   },
   {
     id: 535,
@@ -6172,7 +5916,6 @@ export const institutions: Institution[] = [
     qrImage: "",
     qrContent: "00020201021126610014A000000615000101065641670215QRMID0000001407031001241341555204866153034585802MY5919SURAU NURUL SAKINAH6012NIBONG TEBAL6105143006304108F",
     supportedPayment: ["duitnow", "tng"],
-    coords: [],
   },
   {
     id: 536,
@@ -6183,7 +5926,6 @@ export const institutions: Institution[] = [
     qrImage: "",
     qrContent: "00020201021126610014A000000615000101065641670215QRMID0000001645031001944497275204866153034585802MY5925MSJD JAMEK SEBERANG JAYA 6005PERAI61051370063041472",
     supportedPayment: ["duitnow", "tng"],
-    coords: [],
   },
   {
     id: 537,
@@ -6194,7 +5936,6 @@ export const institutions: Institution[] = [
     qrImage: "",
     qrContent: "00020201021126610014A000000615000101065641670215QRMID0000003494031001942008615204866153034585802MY5916SURAU AL FAYYADH6012KEPALA BATAS6105062006304ACA9",
     supportedPayment: ["duitnow", "tng"],
-    coords: [],
   },
   {
     id: 538,
@@ -6205,7 +5946,6 @@ export const institutions: Institution[] = [
     qrImage: "",
     qrContent: "00020201021126610014A000000615000101065641670215QRMID0000003588031001939018725204866153034585802MY5917SURAU BAYU NYAMAN6011BAYAN LEPAS6105119006304D0CC",
     supportedPayment: ["duitnow", "tng"],
-    coords: [],
   },
   {
     id: 539,
@@ -6216,7 +5956,6 @@ export const institutions: Institution[] = [
     qrImage: "",
     qrContent: "00020201021126610014A000000615000101065641670215QRMID0000000004031001979649515204866153034585802MY5919MASJID FELDA REDONG6007SEGAMAT610585000630412D4",
     supportedPayment: ["duitnow", "tng"],
-    coords: [],
   },
   {
     id: 540,
@@ -6227,7 +5966,6 @@ export const institutions: Institution[] = [
     qrImage: "",
     qrContent: "00020201021126610014A000000615000101065641670215QRMID0000000009031001974718265204866153034585802MY5920MASJID JAMEK GEMEREH6007SEGAMAT61058500063041C61",
     supportedPayment: ["duitnow", "tng"],
-    coords: [],
   },
   {
     id: 541,
@@ -6238,7 +5976,6 @@ export const institutions: Institution[] = [
     qrImage: "",
     qrContent: "00020201021126610014A000000615000101065641670215QRMID0000000013031001272064895204866153034585802MY5921MASJID KG BKT TUNGGAL6007SEGAMAT6105852006304E248",
     supportedPayment: ["duitnow", "tng"],
-    coords: [],
   },
   {
     id: 542,
@@ -6249,7 +5986,6 @@ export const institutions: Institution[] = [
     qrImage: "",
     qrContent: "00020201021126610014A000000615000101065641670215QRMID0000000014031001974981565204866153034585802MY5923MASJID KG FELDA LINGGIU6011KOTA TINGGI61058190063042C7B",
     supportedPayment: ["duitnow", "tng"],
-    coords: [],
   },
   {
     id: 543,
@@ -6260,7 +5996,6 @@ export const institutions: Institution[] = [
     qrImage: "",
     qrContent: "00020201021126610014A000000615000101065641670215QRMID0000000017031001376209315204866153034585802MY5913MASJID AN'NUR6011KOTA TINGGI610581907630454A4",
     supportedPayment: ["duitnow", "tng"],
-    coords: [],
   },
   {
     id: 544,
@@ -6271,7 +6006,6 @@ export const institutions: Institution[] = [
     qrImage: "",
     qrContent: "00020201021126610014A000000615000101065641670215QRMID0000000045031001923238015204866153034585802MY5925MADRASAH TAHFIZ AL JOHARI6010BATU PAHAT6105864006304B132",
     supportedPayment: ["duitnow", "tng"],
-    coords: [],
   },
   {
     id: 545,
@@ -6282,7 +6016,6 @@ export const institutions: Institution[] = [
     qrImage: "",
     qrContent: "00020201021126610014A000000615000101065641670215QRMID0000000053031001270444085204866153034585802MY5921MASJID JAMEK AN NAJAH6011KOTA TINGGI6105819006304E1BC",
     supportedPayment: ["duitnow", "tng"],
-    coords: [],
   },
   {
     id: 546,
@@ -6293,7 +6026,6 @@ export const institutions: Institution[] = [
     qrImage: "",
     qrContent: "00020201021126610014A000000615000101065641670215QRMID0000000054031001374276165204866153034585802MY5925TBG MASJID BARU KG BATU 46011KOTA TINGGI61058190063040380",
     supportedPayment: ["duitnow", "tng"],
-    coords: [],
   },
   {
     id: 547,
@@ -6304,7 +6036,6 @@ export const institutions: Institution[] = [
     qrImage: "",
     qrContent: "00020201021126610014A000000615000101065641670215QRMID0000000058031001985868855204866153034585802MY5925MASJID JAMEK SERI BEROLEH6010BATU PAHAT6105830006304952A",
     supportedPayment: ["duitnow", "tng"],
-    coords: [],
   },
   {
     id: 548,
@@ -6315,7 +6046,6 @@ export const institutions: Institution[] = [
     qrImage: "",
     qrContent: "00020201021126610014A000000615000101065641670215QRMID0000000063031001978968605204866153034585802MY5923MJD JAMEK TENANG STESEN6007SEGAMAT6105850306304880F",
     supportedPayment: ["duitnow", "tng"],
-    coords: [],
   },
   {
     id: 549,
@@ -6326,7 +6056,6 @@ export const institutions: Institution[] = [
     qrImage: "",
     qrContent: "00020201021126610014A000000615000101065641670215QRMID0000000107031001947639825204866153034585802MY5922MASJID MIFTAHUL JANNAH6005SENAI61058140063042560",
     supportedPayment: ["duitnow", "tng"],
-    coords: [],
   },
   {
     id: 550,
@@ -6337,7 +6066,6 @@ export const institutions: Institution[] = [
     qrImage: "",
     qrContent: "00020201021126610014A000000615000101065641670215QRMID0000000108031001973012715204866153034585802MY5921MJD JAMIK KG LUKUT KT6011KOTA TINGGI6105819006304BA75",
     supportedPayment: ["duitnow", "tng"],
-    coords: [],
   },
   {
     id: 551,
@@ -6348,7 +6076,6 @@ export const institutions: Institution[] = [
     qrImage: "",
     qrContent: "00020201021126610014A000000615000101065641670215QRMID0000000111031001974258515204866153034585802MY5925MJ ALABRAR BDR SRI PERANI6011KOTA TINGGI61058190063044117",
     supportedPayment: ["duitnow", "tng"],
-    coords: [],
   },
   {
     id: 552,
@@ -6359,7 +6086,6 @@ export const institutions: Institution[] = [
     qrImage: "",
     qrContent: "00020201021126610014A000000615000101065641670215QRMID0000000112031001971840075204866153034585802MY5925MJ AL MUTTAQIN TM KT JAYA6011KOTA TINGGI61058190063046371",
     supportedPayment: ["duitnow", "tng"],
-    coords: [],
   },
   {
     id: 553,
@@ -6370,7 +6096,6 @@ export const institutions: Institution[] = [
     qrImage: "",
     qrContent: "00020201021126610014A000000615000101065641670215QRMID0000000115031001866647365204866153034585802MY5925MJD AL FALAH TM DESA JAYA6011JOHOR BAHRU610581100630429A2",
     supportedPayment: ["duitnow", "tng"],
-    coords: [],
   },
   {
     id: 554,
@@ -6381,7 +6106,6 @@ export const institutions: Institution[] = [
     qrImage: "",
     qrContent: "00020201021126610014A000000615000101065641670215QRMID0000000118031001276574045204866153034585802MY5921MASJID JAMEK JELUTONG6010PARIT RAJA6105864006304D339",
     supportedPayment: ["duitnow", "tng"],
-    coords: [],
   },
   {
     id: 555,
@@ -6392,7 +6116,6 @@ export const institutions: Institution[] = [
     qrImage: "",
     qrContent: "00020201021126610014A000000615000101065641670215QRMID0000000120031001378534035204866153034585802MY5923SURAU SATU KG SG NIBONG6010BATU PAHAT61058360063047818",
     supportedPayment: ["duitnow", "tng"],
-    coords: [],
   },
   {
     id: 556,
@@ -6403,7 +6126,6 @@ export const institutions: Institution[] = [
     qrImage: "",
     qrContent: "00020201021126610014A000000615000101065641670215QRMID0000000148031001975705955204866153034585802MY5921MASJID KG PARIT BILAL6010BATU PAHAT6105830506304FA55",
     supportedPayment: ["duitnow", "tng"],
-    coords: [],
   },
   {
     id: 557,
@@ -6414,7 +6136,6 @@ export const institutions: Institution[] = [
     qrImage: "",
     qrContent: "00020201021126600014A000000615000101065641670215QRMID000000015703090745370655204866153034585802MY5911MASJID UTHM6010BATU PAHAT6105864006304A47E",
     supportedPayment: ["duitnow", "tng"],
-    coords: [],
   },
   {
     id: 558,
@@ -6425,7 +6146,6 @@ export const institutions: Institution[] = [
     qrImage: "",
     qrContent: "00020201021126610014A000000615000101065641670215QRMID0000000158031001374839675204866153034585802MY5925MJ JAMEK TS AINUDDINWAHID6006SKUDAI610581300630462CE",
     supportedPayment: ["duitnow", "tng"],
-    coords: [],
   },
   {
     id: 559,
@@ -6436,7 +6156,6 @@ export const institutions: Institution[] = [
     qrImage: "",
     qrContent: "00020201021126610014A000000615000101065641670215QRMID0000000178031001978930305204866153034585802MY5916MASJID AS'SAADAH6011KOTA TINGGI61058190063041E4B",
     supportedPayment: ["duitnow", "tng"],
-    coords: [],
   },
   {
     id: 560,
@@ -6447,7 +6166,6 @@ export const institutions: Institution[] = [
     qrImage: "",
     qrContent: "00020201021126610014A000000615000101065641670215QRMID0000000180031001776905105204866153034585802MY5925S ALMUBARAQ KG BARU PASAK6011KOTA TINGGI61058190063041115",
     supportedPayment: ["duitnow", "tng"],
-    coords: [],
   },
   {
     id: 561,
@@ -6458,7 +6176,6 @@ export const institutions: Institution[] = [
     qrImage: "",
     qrContent: "00020201021126610014A000000615000101065641670215QRMID0000000182031001274908545204866153034585802MY5923MASJID RAUDHATUL JANNAH6007SEGAMAT61058500063044D9F",
     supportedPayment: ["duitnow", "tng"],
-    coords: [],
   },
   {
     id: 562,
@@ -6469,7 +6186,6 @@ export const institutions: Institution[] = [
     qrImage: "",
     qrContent: "00020201021126610014A000000615000101065641670215QRMID0000000183031001977025415204866153034585802MY5922MASJID JAMEK KG TENGAH6006KLUANG6105860006304B1A1",
     supportedPayment: ["duitnow", "tng"],
-    coords: [],
   },
   {
     id: 563,
@@ -6480,7 +6196,6 @@ export const institutions: Institution[] = [
     qrImage: "",
     qrContent: "00020201021126610014A000000615000101065641670215QRMID0000000184031001977460925204866153034585802MY5925MDRSH INDIA MUSLIM KLUANG6006KLUANG6105860006304C8A4",
     supportedPayment: ["duitnow", "tng"],
-    coords: [],
   },
   {
     id: 564,
@@ -6491,7 +6206,6 @@ export const institutions: Institution[] = [
     qrImage: "",
     qrContent: "00020201021126610014A000000615000101065641670215QRMID0000000204031001971680865204866153034585802MY5925AKADEMI TAHFIZ DARULAMEER6005KULAI610581000630486EA",
     supportedPayment: ["duitnow", "tng"],
-    coords: [],
   },
   {
     id: 565,
@@ -6502,7 +6216,6 @@ export const institutions: Institution[] = [
     qrImage: "",
     qrContent: "00020201021126610014A000000615000101065641670215QRMID0000000217031001975404345204866153034585802MY5925MJD ABIDIN TMN SRI SKUDAI6006SKUDAI6105813006304C717",
     supportedPayment: ["duitnow", "tng"],
-    coords: [],
   },
   {
     id: 566,
@@ -6513,7 +6226,6 @@ export const institutions: Institution[] = [
     qrImage: "",
     qrContent: "00020201021126610014A000000615000101065641670215QRMID0000000233031001971152855204866153034585802MY5924MJD AT-TAQWA TMN PULAI U6006SKUDAI610580200630424E1",
     supportedPayment: ["duitnow", "tng"],
-    coords: [],
   },
   {
     id: 567,
@@ -6524,7 +6236,6 @@ export const institutions: Institution[] = [
     qrImage: "",
     qrContent: "00020201021126610014A000000615000101065641670215QRMID0000000235031001975267895204866153034585802MY5925MASJID JAMEK TELOK SENGAT6011KOTA TINGGI61058190063042E3F",
     supportedPayment: ["duitnow", "tng"],
-    coords: [],
   },
   {
     id: 568,
@@ -6535,7 +6246,6 @@ export const institutions: Institution[] = [
     qrImage: "",
     qrContent: "00020201021126610014A000000615000101065641670215QRMID0000000236031001276319475204866153034585802MY5924MASJID AL-HUDA FELDA AT36011KOTA TINGGI6105819006304A0DA",
     supportedPayment: ["duitnow", "tng"],
-    coords: [],
   },
   {
     id: 569,
@@ -6546,7 +6256,6 @@ export const institutions: Institution[] = [
     qrImage: "",
     qrContent: "00020201021126610014A000000615000101065641670215QRMID0000000239031001379913255204866153034585802MY5920MASJID KAMPUNG SULIR6007SEGAMAT61058500063049C6D",
     supportedPayment: ["duitnow", "tng"],
-    coords: [],
   },
   {
     id: 570,
@@ -6557,7 +6266,6 @@ export const institutions: Institution[] = [
     qrImage: "",
     qrContent: "00020201021126610014A000000615000101065641670215QRMID0000000253031001971490285204866153034585802MY5923MJD AR RAHMAN TMN PUTRI6005KULAI6105810006304CD41",
     supportedPayment: ["duitnow", "tng"],
-    coords: [],
   },
   {
     id: 571,
@@ -6568,7 +6276,6 @@ export const institutions: Institution[] = [
     qrImage: "",
     qrContent: "00020201021126610014A000000615000101065641670215QRMID0000000255031001975666005204866153034585802MY5925MASJID JAMEK BANDAR SENAI6005SENAI6105814006304F9B3",
     supportedPayment: ["duitnow", "tng"],
-    coords: [],
   },
   {
     id: 572,
@@ -6579,7 +6286,6 @@ export const institutions: Institution[] = [
     qrImage: "",
     qrContent: "00020201021126610014A000000615000101065641670215QRMID0000000266031001271541345204866153034585802MY5923MJD JAMEK KG MELAYU BT96010AYER HITAM610586100630484DA",
     supportedPayment: ["duitnow", "tng"],
-    coords: [],
   },
   {
     id: 573,
@@ -6590,7 +6296,6 @@ export const institutions: Institution[] = [
     qrImage: "",
     qrContent: "00020201021126610014A000000615000101065641670215QRMID0000000267031001273727485204866153034585802MY5925MJD JAMEK KGMELAYU KLUANG6006KLUANG6105860006304065A",
     supportedPayment: ["duitnow", "tng"],
-    coords: [],
   },
   {
     id: 574,
@@ -6601,7 +6306,6 @@ export const institutions: Institution[] = [
     qrImage: "",
     qrContent: "00020201021126610014A000000615000101065641670215QRMID0000000279031001370401975204866153034585802MY5925MJD AL-MUHAJIRIN F.SLCR 26012MUADZAM SHAH61052670063049B8B",
     supportedPayment: ["duitnow", "tng"],
-    coords: [],
   },
   {
     id: 575,
@@ -6612,7 +6316,6 @@ export const institutions: Institution[] = [
     qrImage: "",
     qrContent: "00020201021126610014A000000615000101065641670215QRMID0000000287031001276945425204866153034585802MY5925MASJID AN-NUR FELDA MEDOI6007SEGAMAT6105850506304BD9C",
     supportedPayment: ["duitnow", "tng"],
-    coords: [],
   },
   {
     id: 576,
@@ -6623,7 +6326,6 @@ export const institutions: Institution[] = [
     qrImage: "",
     qrContent: "00020201021126610014A000000615000101065641670215QRMID0000000289031001977327425204866153034585802MY5923MASJID MAKAM LUBOK BATU6007SEGAMAT6105850006304D037",
     supportedPayment: ["duitnow", "tng"],
-    coords: [],
   },
   {
     id: 577,
@@ -6634,7 +6336,6 @@ export const institutions: Institution[] = [
     qrImage: "",
     qrContent: "00020201021126610014A000000615000101065641670215QRMID0000000309031001770024795204866153034585802MY5924MASJID INDIA JOHOR BAHRU6011JOHOR BAHRU610580000630414C2",
     supportedPayment: ["duitnow", "tng"],
-    coords: [],
   },
   {
     id: 578,
@@ -6645,7 +6346,6 @@ export const institutions: Institution[] = [
     qrImage: "",
     qrContent: "00020201021126610014A000000615000101065641670215QRMID0000000322031001960390005204866153034585802MY5925S RIADHUL JANNAH TPELANGI6007SEGAMAT610585000630488CD",
     supportedPayment: ["duitnow", "tng"],
-    coords: [],
   },
   {
     id: 579,
@@ -6656,7 +6356,6 @@ export const institutions: Institution[] = [
     qrImage: "",
     qrContent: "00020201021126610014A000000615000101065641670215QRMID0000000339031001376523505204866153034585802MY5920SURAU HASAN AL BASRI6007SEGAMAT61058500063048491",
     supportedPayment: ["duitnow", "tng"],
-    coords: [],
   },
   {
     id: 580,
@@ -6667,7 +6366,6 @@ export const institutions: Institution[] = [
     qrImage: "",
     qrContent: "00020201021126610014A000000615000101065641670215QRMID0000000340031001978968605204300053034585802MY5922MJD JMK TENANG STATION6007SEGAMAT61058503063048C34",
     supportedPayment: ["duitnow", "tng"],
-    coords: [],
   },
   {
     id: 581,
@@ -6678,7 +6376,6 @@ export const institutions: Institution[] = [
     qrImage: "",
     qrContent: "00020201021126610014A000000615000101065641670215QRMID0000000342031001975651515204866153034585802MY5921MJD JMK KG PAYA PULAI6007SEGAMAT61058500063041AFE",
     supportedPayment: ["duitnow", "tng"],
-    coords: [],
   },
   {
     id: 582,
@@ -6689,7 +6386,6 @@ export const institutions: Institution[] = [
     qrImage: "",
     qrContent: "00020201021126610014A000000615000101065641670215QRMID0000000343031001374343995204866153034585802MY5924B.TDBIR MJ JAMEK B.SIPUT6007SEGAMAT61058500063048893",
     supportedPayment: ["duitnow", "tng"],
-    coords: [],
   },
   {
     id: 583,
@@ -6700,7 +6396,6 @@ export const institutions: Institution[] = [
     qrImage: "",
     qrContent: "00020201021126610014A000000615000101065641670215QRMID0000000383031001766768195204866153034585802MY5925PBGN SUR. AN-NUR D.SKUDAI6006SKUDAI61058130063049CD4",
     supportedPayment: ["duitnow", "tng"],
-    coords: [],
   },
   {
     id: 584,
@@ -6711,7 +6406,6 @@ export const institutions: Institution[] = [
     qrImage: "",
     qrContent: "00020201021126610014A000000615000101065641670215QRMID0000000396031001974291045204866153034585802MY5915RIYADUS SOLIHIN6010BATU PAHAT6105846006304E054",
     supportedPayment: ["duitnow", "tng"],
-    coords: [],
   },
   {
     id: 585,
@@ -6722,7 +6416,6 @@ export const institutions: Institution[] = [
     qrImage: "",
     qrContent: "00020201021126610014A000000615000101065641670215QRMID0000000509031001966673945204866153034585802MY5924MASJID KG KENANGAN TDI 16004MUAR61058410063049055",
     supportedPayment: ["duitnow", "tng"],
-    coords: [],
   },
   {
     id: 586,
@@ -6733,7 +6426,6 @@ export const institutions: Institution[] = [
     qrImage: "",
     qrContent: "00020201021126610014A000000615000101065641670215QRMID0000000515031001236343305204866153034585802MY5918MASJID PARIT BUNGA6007TANGKAK61058400063043AD5",
     supportedPayment: ["duitnow", "tng"],
-    coords: [],
   },
   {
     id: 587,
@@ -6744,7 +6436,6 @@ export const institutions: Institution[] = [
     qrImage: "",
     qrContent: "00020201021126610014A000000615000101065641670215QRMID0000000658031001762228425204866153034585802MY5917SURAU NURUL YAKIN6004MUAR610584000630472A4",
     supportedPayment: ["duitnow", "tng"],
-    coords: [],
   },
   {
     id: 588,
@@ -6755,7 +6446,6 @@ export const institutions: Institution[] = [
     qrImage: "",
     qrContent: "00020201021126610014A000000615000101065641670215QRMID0000000665031001975056005204866153034585802MY5925SURAU AL BARAKAH BAKRI B26004MUAR6105840006304F5A4",
     supportedPayment: ["duitnow", "tng"],
-    coords: [],
   },
   {
     id: 589,
@@ -6766,7 +6456,6 @@ export const institutions: Institution[] = [
     qrImage: "",
     qrContent: "00020201021126610014A000000615000101065641670215QRMID0000000711031001320843415204533153034585802MY5917MTAQ AT TANWIRIAH6004MUAR6105840006304E100",
     supportedPayment: ["duitnow", "tng"],
-    coords: [],
   },
   {
     id: 590,
@@ -6777,7 +6466,6 @@ export const institutions: Institution[] = [
     qrImage: "",
     qrContent: "00020201021126610014A000000615000101065641670215QRMID0000000716031001965652055204866153034585802MY5911SURAU EHSAN6005JOHOR61058130063040ED1",
     supportedPayment: ["duitnow", "tng"],
-    coords: [],
   },
   {
     id: 591,
@@ -6788,7 +6476,6 @@ export const institutions: Institution[] = [
     qrImage: "",
     qrContent: "00020201021126610014A000000615000101065641670215QRMID0000000738031001773653255204533153034585802MY5922M T AL QURAN AS SUNNAH6005KULAI6105810306304A3DB",
     supportedPayment: ["duitnow", "tng"],
-    coords: [],
   },
   {
     id: 592,
@@ -6799,7 +6486,6 @@ export const institutions: Institution[] = [
     qrImage: "",
     qrContent: "00020201021126610014A000000615000101065641670215QRMID0000000755031001360754025204866153034585802MY5913SURAU AL BANI6007TANGKAK6105848006304CD1C",
     supportedPayment: ["duitnow", "tng"],
-    coords: [],
   },
   {
     id: 593,
@@ -6810,7 +6496,6 @@ export const institutions: Institution[] = [
     qrImage: "",
     qrContent: "00020201021126610014A000000615000101065641670215QRMID0000000791031001775127305204866153034585802MY5925SURAU AL HUSNA PARIT UNAS6004MUAR6105841506304E365",
     supportedPayment: ["duitnow", "tng"],
-    coords: [],
   },
   {
     id: 594,
@@ -6821,7 +6506,6 @@ export const institutions: Institution[] = [
     qrImage: "",
     qrContent: "00020201021126610014A000000615000101065641670215QRMID0000000818031001361089555204866153034585802MY5924SURAU AL HIDAYAH T.BAKRI6004MUAR610584000630476BD",
     supportedPayment: ["duitnow", "tng"],
-    coords: [],
   },
   {
     id: 595,
@@ -6832,7 +6516,6 @@ export const institutions: Institution[] = [
     qrImage: "",
     qrContent: "00020201021126610014A000000615000101065641670215QRMID0000000834031001374382105204866153034585802MY5925PK ANAK2 YATIM ISLAM MUAR6004MUAR6105840006304039E",
     supportedPayment: ["duitnow", "tng"],
-    coords: [],
   },
   {
     id: 596,
@@ -6843,7 +6526,6 @@ export const institutions: Institution[] = [
     qrImage: "",
     qrContent: "00020201021126610014A000000615000101065641670215QRMID0000000843031001939447665204533153034585802MY5914KHAUJAKAN MUAR6004MUAR6105840006304CE46",
     supportedPayment: ["duitnow", "tng"],
-    coords: [],
   },
   {
     id: 597,
@@ -6854,7 +6536,6 @@ export const institutions: Institution[] = [
     qrImage: "",
     qrContent: "00020201021126610014A000000615000101065641670215QRMID0000000959031001371101435204866153034585802MY5924PPAQ NURUL HAQ LIL BANAT6006KLUANG6105860006304A162",
     supportedPayment: ["duitnow", "tng"],
-    coords: [],
   },
   {
     id: 598,
@@ -6865,7 +6546,6 @@ export const institutions: Institution[] = [
     qrImage: "",
     qrContent: "00020201021126610014A000000615000101065641670215QRMID0000001004031001374412215204866153034585802MY5924SURAU TAMAN SKUDAI INDAH6006SKUDAI6105813006304643E",
     supportedPayment: ["duitnow", "tng"],
-    coords: [],
   },
   {
     id: 599,
@@ -6876,7 +6556,6 @@ export const institutions: Institution[] = [
     qrImage: "",
     qrContent: "00020201021126610014A000000615000101065641670215QRMID0000001522031001388079445204866153034585802MY5916SURAU AL WAHIDAH6004MUAR6105840006304096C",
     supportedPayment: ["duitnow", "tng"],
-    coords: [],
   },
   {
     id: 600,
@@ -6887,7 +6566,6 @@ export const institutions: Institution[] = [
     qrImage: "",
     qrContent: "00020201021126610014A000000615000101065641670215QRMID0000001735031001972736265204866153034585802MY5924DANA KLINIK WAQAF AN-NUR6011JOHOR BAHRU61058000063042A40",
     supportedPayment: ["duitnow", "tng"],
-    coords: [],
   },
   {
     id: 601,
@@ -6898,7 +6576,6 @@ export const institutions: Institution[] = [
     qrImage: "",
     qrContent: "00020201021126610014A000000615000101065641670215QRMID0000002266031001371701715204866153034585802MY5922MASJID JAMEK AR RAHMAN6005KULAI61058145063041851",
     supportedPayment: ["duitnow", "tng"],
-    coords: [],
   },
   {
     id: 602,
@@ -6909,7 +6586,6 @@ export const institutions: Institution[] = [
     qrImage: "",
     qrContent: "00020201021126610014A000000615000101065641670215QRMID0000003339031001926372065204866153034585802MY5918MASJID JAMIK LABIS6005LABIS6105853006304AEFA",
     supportedPayment: ["duitnow", "tng"],
-    coords: [],
   },
   {
     id: 603,
@@ -6920,7 +6596,6 @@ export const institutions: Institution[] = [
     qrImage: "",
     qrContent: "00020201021126610014A000000615000101065641670215QRMID0000003482031001970070085204866153034585802MY5924MSJD AL BAROQAH SRI PAYA6005KULAI6105810306304D733",
     supportedPayment: ["duitnow", "tng"],
-    coords: [],
   },
   {
     id: 604,
@@ -6931,7 +6606,6 @@ export const institutions: Institution[] = [
     qrImage: "",
     qrContent: "00020201021126610014A000000615000101065641670215QRMID0000003624031001832571285204866153034585802MY5919SURAU PERJIRANAN 106011JOHOR BAHRU6105811006304D6CB",
     supportedPayment: ["duitnow", "tng"],
-    coords: [],
   },
   {
     id: 605,
@@ -6942,7 +6616,6 @@ export const institutions: Institution[] = [
     qrImage: "",
     qrContent: "00020201021126610014A000000615000101065641670215QRMID0000004256031001776900065204866153034585802MY5921JKUASA SURAU AL FALAH6006SKUDAI6105813006304F624",
     supportedPayment: ["duitnow", "tng"],
-    coords: [],
   },
   {
     id: 606,
@@ -6953,7 +6626,6 @@ export const institutions: Institution[] = [
     qrImage: "",
     qrContent: "00020201021126610014A000000615000101065641670215QRMID0000004858031001773653255204866153034585802MY5920MAHAD TAHFIZ MATAQAS6005KULAI61058103063042006",
     supportedPayment: ["duitnow", "tng"],
-    coords: [],
   },
   {
     id: 607,
@@ -6964,7 +6636,6 @@ export const institutions: Institution[] = [
     qrImage: "",
     qrContent: "00020201021126610014A000000615000101065641670215QRMID0000000022031001233808685204866153034585802MY5921MASJID KARIAH SIKAMAT6008SEREMBAN6105704006304EA00",
     supportedPayment: ["duitnow", "tng"],
-    coords: [],
   },
   {
     id: 608,
@@ -6975,7 +6646,6 @@ export const institutions: Institution[] = [
     qrImage: "",
     qrContent: "00020201021126610014A000000615000101065641670215QRMID0000000032031001361663255204866153034585802MY5916MASJID NEGERI NS6008SEREMBAN6105701006304AEEE",
     supportedPayment: ["duitnow", "tng"],
-    coords: [],
   },
   {
     id: 609,
@@ -6986,7 +6656,6 @@ export const institutions: Institution[] = [
     qrImage: "",
     qrContent: "00020201021126610014A000000615000101065641670215QRMID0000000033031001361663255204866153034585802MY5923MASJID JAMEK BANDAR SBN6008SEREMBAN6105701006304EA7C",
     supportedPayment: ["duitnow", "tng"],
-    coords: [],
   },
   {
     id: 610,
@@ -6997,7 +6666,6 @@ export const institutions: Institution[] = [
     qrImage: "",
     qrContent: "00020201021126610014A000000615000101065641670215QRMID0000000090031001775581165204866153034585802MY5924QARIAH MJD FELDA JELAI 46005GEMAS610573400630457FF",
     supportedPayment: ["duitnow", "tng"],
-    coords: [],
   },
   {
     id: 611,
@@ -7008,7 +6676,6 @@ export const institutions: Institution[] = [
     qrImage: "",
     qrContent: "00020201021126610014A000000615000101065641670215QRMID0000000035031001361663255204866153034585802MY5924KPLKS PUSAT ISLAM RANTAU6008SEREMBAN610570100630425B0",
     supportedPayment: ["duitnow", "tng"],
-    coords: [],
   },
   {
     id: 612,
@@ -7019,7 +6686,6 @@ export const institutions: Institution[] = [
     qrImage: "",
     qrContent: "00020201021126610014A000000615000101065641670215QRMID0000000116031001423509975204866153034585802MY5924MJD KARIAH FELDA JELAI 16005GEMAS61057348063042AE8",
     supportedPayment: ["duitnow", "tng"],
-    coords: [],
   },
   {
     id: 613,
@@ -7030,7 +6696,6 @@ export const institutions: Institution[] = [
     qrImage: "",
     qrContent: "00020201021126610014A000000615000101065641670215QRMID0000000117031001323296365204866153034585802MY5925MJ NURUL HUDA KG FELDA J36005GEMAS61057348063048D0E",
     supportedPayment: ["duitnow", "tng"],
-    coords: [],
   },
   {
     id: 614,
@@ -7041,7 +6706,6 @@ export const institutions: Institution[] = [
     qrImage: "",
     qrContent: "00020201021126610014A000000615000101065641670215QRMID0000000171031001773253565204866153034585802MY5923MJD QARYAH BAGAN PINANG6012PORT DICKSON610571000630435E7",
     supportedPayment: ["duitnow", "tng"],
-    coords: [],
   },
   {
     id: 615,
@@ -7052,7 +6716,6 @@ export const institutions: Institution[] = [
     qrImage: "",
     qrContent: "00020201021126610014A000000615000101065641670215QRMID0000000271031001922690015204866153034585802MY5924MASJID KG SAWAH SUNGGALA6006SIRUSA6105710506304B895",
     supportedPayment: ["duitnow", "tng"],
-    coords: [],
   },
   {
     id: 616,
@@ -7063,7 +6726,6 @@ export const institutions: Institution[] = [
     qrImage: "",
     qrContent: "00020201021126610014A000000615000101065641670215QRMID0000000327031001083677585204866153034585802MY5923MASJID ANNUR F. JELAI 26005GEMAS6105734006304227D",
     supportedPayment: ["duitnow", "tng"],
-    coords: [],
   },
   {
     id: 617,
@@ -7074,7 +6736,6 @@ export const institutions: Institution[] = [
     qrImage: "",
     qrContent: "00020201021126610014A000000615000101065641670215QRMID0000000388031001966154155204866153034585802MY5923MJD JAMEK DATO HJ AHMAD6008SEREMBAN6105703006304B78B",
     supportedPayment: ["duitnow", "tng"],
-    coords: [],
   },
   {
     id: 618,
@@ -7085,7 +6746,6 @@ export const institutions: Institution[] = [
     qrImage: "",
     qrContent: "00020201021126610014A000000615000101065641670215QRMID0000000500031001962252055204866153034585802MY5913SURAU UBUDIAH6012PORT DICKSON6105710506304AC04",
     supportedPayment: ["duitnow", "tng"],
-    coords: [],
   },
   {
     id: 619,
@@ -7096,7 +6756,6 @@ export const institutions: Institution[] = [
     qrImage: "",
     qrContent: "00020201021126610014A000000615000101065641670215QRMID0000000662031001967361315204866153034585802MY5917SURAU AL EHSANIAH6012PORT DICKSON6105710506304CFC5",
     supportedPayment: ["duitnow", "tng"],
-    coords: [],
   },
   {
     id: 620,
@@ -7107,7 +6766,6 @@ export const institutions: Institution[] = [
     qrImage: "",
     qrContent: "00020201021126610014A000000615000101065641670215QRMID0000000911031001726495665204866153034585802MY5913TILAWAH JKNNS6008SEREMBAN61057030063040115",
     supportedPayment: ["duitnow", "tng"],
-    coords: [],
   },
   {
     id: 621,
@@ -7118,7 +6776,6 @@ export const institutions: Institution[] = [
     qrImage: "",
     qrContent: "00020201021126610014A000000615000101065641670215QRMID0000000919031001922143135204866153034585802MY5914MASJID SENDENG6008SEREMBAN6105704006304A40D",
     supportedPayment: ["duitnow", "tng"],
-    coords: [],
   },
   {
     id: 622,
@@ -7129,7 +6786,6 @@ export const institutions: Institution[] = [
     qrImage: "",
     qrContent: "00020201021126610014A000000615000101065641670215QRMID0000001344031001930097845204866153034585802MY5921MJD FELDA PASIR BESAR6005GEMAS610573420630456A5",
     supportedPayment: ["duitnow", "tng"],
-    coords: [],
   },
   {
     id: 623,
@@ -7140,7 +6796,6 @@ export const institutions: Institution[] = [
     qrImage: "",
     qrContent: "00020201021126610014A000000615000101065641670215QRMID0000001376031001265787235204866153034585802MY5924MASJID KARIAH PAROI JAYA6008SEREMBAN61057040063042D29",
     supportedPayment: ["duitnow", "tng"],
-    coords: [],
   },
   {
     id: 624,
@@ -7151,7 +6806,6 @@ export const institutions: Institution[] = [
     qrImage: "",
     qrContent: "00020201021126610014A000000615000101065641670215QRMID0000003034031001725545305204866153034585802MY5919MASJID JAMEK RAHANG6008SEREMBAN6105701006304FC5D",
     supportedPayment: ["duitnow", "tng"],
-    coords: [],
   },
   {
     id: 625,
@@ -7162,7 +6816,6 @@ export const institutions: Institution[] = [
     qrImage: "",
     qrContent: "00020201021126620014A000000615000101065641670215QRMID00000042470311011237442345204866153034585802MY5924MJD KARIAH KEM SEGENTING6012PORT DICKSON610571050630482C8",
     supportedPayment: ["duitnow", "tng"],
-    coords: [],
   },
   {
     id: 626,
@@ -7173,7 +6826,6 @@ export const institutions: Institution[] = [
     qrImage: "",
     qrContent: "00020201021126610014A000000615000101065641670215QRMID0000004326031001969698715204866153034585802MY5919MASJID SRI SENDAYAN6015BANDAR SRI SEND610571950630462C3",
     supportedPayment: ["duitnow", "tng"],
-    coords: [],
   },
   {
     id: 627,
@@ -7184,7 +6836,6 @@ export const institutions: Institution[] = [
     qrImage: "",
     qrContent: "00020201021126610014A000000615000101065641670215QRMID0000000169031001261100935204866153034585802MY5918SURAU SELAT MELAKA6015PADANG TEMU MEL61057505063049CE6",
     supportedPayment: ["duitnow", "tng"],
-    coords: [],
   },
   {
     id: 628,
@@ -7195,7 +6846,6 @@ export const institutions: Institution[] = [
     qrImage: "",
     qrContent: "00020201021126610014A000000615000101065641670215QRMID0000000321031001762459575204866153034585802MY5925PBN SURAU TMN BKT CHENG 26015TAMAN BUKIT CHE6105752506304C22D",
     supportedPayment: ["duitnow", "tng"],
-    coords: [],
   },
   {
     id: 629,
@@ -7206,7 +6856,6 @@ export const institutions: Institution[] = [
     qrImage: "",
     qrContent: "00020201021126610014A000000615000101065641670215QRMID0000000893031001975048605204866153034585802MY5923MASJID AL ABRAR SEMABOK6006MELAKA610575050630408BE",
     supportedPayment: ["duitnow", "tng"],
-    coords: [],
   },
   {
     id: 630,
@@ -7217,7 +6866,6 @@ export const institutions: Institution[] = [
     qrImage: "",
     qrContent: "00020201021126610014A000000615000101065641670215QRMID0000001037031001966858825204866153034585802MY5924MJD AL-MUKMIN BKT DURIAN6006MELAKA61057546063045DD6",
     supportedPayment: ["duitnow", "tng"],
-    coords: [],
   },
   {
     id: 631,
@@ -7228,7 +6876,6 @@ export const institutions: Institution[] = [
     qrImage: "",
     qrContent: "00020201021126610014A000000615000101065641670215QRMID0000005031031001363063305204566153034585802MY5915SURAU AL-HIKMAH6006MELAKA61057525063048A94",
     supportedPayment: ["duitnow", "tng"],
-    coords: [],
   },
   {
     id: 632,
@@ -7239,5 +6886,4 @@ export const institutions: Institution[] = [
     qrImage: "",
     qrContent: "00020201021126610014A000000615000101065641670215QRMID0000005032031001363063305204566153034585802MY5924WKF PBGN SURAU AL-HIKMAH6006MELAKA610575250630409C2",
     supportedPayment: ["duitnow", "tng"],
-    coords: [],
   },];

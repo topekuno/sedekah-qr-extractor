@@ -39,7 +39,6 @@ def merge_data(existing_data_string, new_data):
     qrImage: "",
     qrContent: "{new_item['qrContent']}",
     supportedPayment: ["duitnow", "tng"],
-    coords: [],
   }},"""
             new_entries.append(new_entry)
 
